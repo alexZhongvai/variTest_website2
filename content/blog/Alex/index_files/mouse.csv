@@ -1,0 +1,1067 @@
+﻿GeneSymbol,Name,ref_aa,alt_aa,pos_aa,limb defect,facial defect,,Animal Number,Gene 1,Gt 1,Gene 2,Gt 2,Cage Number,Line,Age,Sex,Birthdate,Weandate,Dam,Sire,Gt Summary
+CELSR2,NM_001408.3(CELSR2):c.8235_8246dup (p.Glu2749_Glu2752dup),Glu,_Glu2752dup,,yes,yes,,Williams2-73286,,,,,154434,Aid-Cre,373,Male,11/24/20,,,,
+CELSR2,NM_001408.3(CELSR2):c.478_482delinsAAAA (p.Glu160fs),Glu,fs,160,no,no,,Williams2-74583,,,,,160411,Aid-Cre,324,Male,1/12/21,,,,
+CELSR2,GRCh37/hg19 1p13.3(chr1:109798803-109817838)x1,,,,no,yes,,Williams2-74147,Cre,Tg/+,Fzd6-Flox,Flox/+,158371,Lysm-cre-Fzd6-flox,272,Male,3/5/21,,Williams2-72936,CK-4832,Cre-Tg/+; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.35CGC[6] (p.Pro16dup),Pro,dup,16,yes,no,,Williams2-74148,Cre,Tg/+,Fzd6-Flox,Flox/+,158372,Lysm-cre-Fzd6-flox,272,Female,3/5/21,,Williams2-72936,CK-4832,Cre-Tg/+; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.6859G>A (p.Val2287Ile),Val,Ile,2287,yes,yes,,Williams2-74149,Cre,Tg/+,Fzd6-Flox,Flox/+,158372,Lysm-cre-Fzd6-flox,272,Female,3/5/21,,Williams2-72936,CK-4832,Cre-Tg/+; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.3830C>T (p.Pro1277Leu),Pro,Leu,1277,yes,no,,Williams2-74150,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,158372,Lysm-cre-Fzd6-flox,272,Female,3/5/21,,Williams2-72936,CK-4832,Cre-wt; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.2381A>G (p.Gln794Arg),Gln,Arg,794,no,no,,Williams2-74151,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,158372,Lysm-cre-Fzd6-flox,272,Female,3/5/21,,Williams2-72936,CK-4832,Cre-wt; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.4685T>C (p.Ile1562Thr),Ile,Thr,1562,yes,yes,,Williams2-74152,Cre,Tg/+,Fzd6-Flox,Flox/+,158372,Lysm-cre-Fzd6-flox,272,Female,3/5/21,,Williams2-72936,CK-4832,Cre-Tg/+; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.333C>T (p.Pro111=),Pro,Pro,111,no,yes,,Williams2-74153,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,158373,Lysm-cre-Fzd6-flox,272,Female,3/5/21,,Williams2-72936,CK-4832,Cre-wt; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.481A>C (p.Arg161=),Arg,Arg,161,yes,no,,Williams2-74584,Cre,Tg/+,,,160421,Aid-Cre,254,Male,3/23/21,,Williams2-72771,Williams2-74583,Cre-Tg/+
+CELSR2,NM_001408.3(CELSR2):c.1150G>T (p.Ala384Ser),Ala,Ser,384,no,yes,,Williams2-74585,Cre,Tg/+,,,160422,Aid-Cre,254,Female,3/23/21,,Williams2-72771,Williams2-74583,Cre-Tg/+
+CELSR2,NM_001408.3(CELSR2):c.3041T>A (p.Leu1014His),Leu,His,1014,no,yes,,Williams2-74586,Cre,Tg/+,Fzd6-Flox,Flox/+,160424,Lysm-cre-Fzd6-flox,250,Male,3/27/21,,Williams2-72936,CK-4832,Cre-Tg/+; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.3197G>A (p.Arg1066Gln),Arg,Gln,1066,yes,yes,,Williams2-74587,Cre,Tg/+,Fzd6-Flox,Flox/+,160424,Lysm-cre-Fzd6-flox,250,Male,3/27/21,,Williams2-72936,CK-4832,Cre-Tg/+; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.6523G>A (p.Asp2175Asn),Asp,Asn,2175,no,no,,Williams2-74588,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,160424,Lysm-cre-Fzd6-flox,250,Male,3/27/21,,Williams2-72936,CK-4832,Cre-wt; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.7649G>A (p.Arg2550Gln),Arg,Gln,2550,no,yes,,Williams2-74589,Cre,Tg/+,Fzd6-Flox,Flox/+,160424,Lysm-cre-Fzd6-flox,250,Male,3/27/21,,Williams2-72936,CK-4832,Cre-Tg/+; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.8478C>T (p.Pro2826=),Pro,Pro,2826,yes,no,,Williams2-74590,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,160425,Lysm-cre-Fzd6-flox,250,Male,3/27/21,,Williams2-72936,CK-4832,Cre-wt; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.272G>A (p.Arg91Lys),Arg,Lys,91,yes,yes,,Williams2-74591,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,160425,Lysm-cre-Fzd6-flox,250,Male,3/27/21,,Williams2-72936,CK-4832,Cre-wt; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.376C>A (p.Gln126Lys),Gln,Lys,126,yes,no,,Williams2-74592,Cre,Tg/+,Fzd6-Flox,Flox/+,160426,Lysm-cre-Fzd6-flox,250,Female,3/27/21,,Williams2-72936,CK-4832,Cre-Tg/+; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.427C>T (p.Leu143Phe),Leu,Phe,143,no,no,,Williams2-74593,Cre,Tg/+,Fzd6-Flox,Flox/+,160426,Lysm-cre-Fzd6-flox,250,Female,3/27/21,,Williams2-72936,CK-4832,Cre-Tg/+; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.3363C>T (p.Thr1121=),Thr,Thr,1121,yes,yes,,Williams2-74594,Cre,Tg/+,Fzd6-Flox,Flox/+,160426,Lysm-cre-Fzd6-flox,250,Female,3/27/21,,Williams2-72936,CK-4832,Cre-Tg/+; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.3800A>G (p.His1267Arg),His,Arg,1267,no,yes,,Williams2-74595,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,160426,Lysm-cre-Fzd6-flox,250,Female,3/27/21,,Williams2-72936,CK-4832,Cre-wt; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.4248T>C (p.Phe1416=),Phe,Phe,1416,yes,no,,Williams2-74858,Cre,Tg/+,,,161219,Aid-Cre,236,Male,4/10/21,,Williams2-72771,Williams2-74583,Cre-Tg/+
+CELSR2,NM_001408.3(CELSR2):c.5235C>T (p.Gly1745=),Gly,Gly,1745,no,yes,,Williams2-74859,Cre,Tg/+,,,161219,Aid-Cre,236,Male,4/10/21,,Williams2-72771,Williams2-74583,Cre-Tg/+
+CELSR2,NM_001408.3(CELSR2):c.7159A>G (p.Thr2387Ala),Thr,Ala,2387,no,yes,,Williams2-74860,Cre,Tg/+,,,161220,Aid-Cre,236,Female,4/10/21,,Williams2-72771,Williams2-74583,Cre-Tg/+
+CELSR2,NM_001408.3(CELSR2):c.8154G>A (p.Thr2718=),Thr,Thr,2718,yes,yes,,Williams2-74861,Cre,Tg/+,,,161220,Aid-Cre,236,Female,4/10/21,,Williams2-72771,Williams2-74583,Cre-Tg/+
+CELSR2,NM_001408.3(CELSR2):c.618C>T (p.Ile206=),Ile,Ile,206,no,no,,Williams2-75036,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,162456,Lysm-cre-Fzd6-flox,226,Male,4/20/21,,Williams2-72936,CK-4832,Cre-wt; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.3273C>T (p.Asn1091=),Asn,Asn,1091,no,yes,,Williams2-75037,Cre,Tg/+,Fzd6-Flox,Flox/+,162456,Lysm-cre-Fzd6-flox,226,Male,4/20/21,,Williams2-72936,CK-4832,Cre-Tg/+; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.3992G>A (p.Arg1331His),Arg,His,1331,yes,no,,Williams2-75038,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,162456,Lysm-cre-Fzd6-flox,226,Male,4/20/21,,Williams2-72936,CK-4832,Cre-wt; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.4704G>T (p.Val1568=),Val,Val,1568,yes,yes,,Williams2-75039,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,162456,Lysm-cre-Fzd6-flox,226,Male,4/20/21,,Williams2-72936,CK-4832,Cre-wt; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.5794T>G (p.Leu1932Val),Leu,Val,1932,yes,no,,Williams2-75040,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,162457,Lysm-cre-Fzd6-flox,226,Male,4/20/21,,Williams2-72936,CK-4832,Cre-wt; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.5819A>G (p.Asp1940Gly),Asp,Gly,1940,no,no,,Williams2-75041,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,162457,Lysm-cre-Fzd6-flox,226,Male,4/20/21,,Williams2-72936,CK-4832,Cre-wt; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.6024G>A (p.Val2008=),Val,Val,2008,yes,yes,,Williams2-75042,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,162457,Lysm-cre-Fzd6-flox,226,Male,4/20/21,,Williams2-72936,CK-4832,Cre-wt; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.8419C>G (p.Pro2807Ala),Pro,Ala,2807,no,yes,,Williams2-75043,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,162457,Lysm-cre-Fzd6-flox,226,Male,4/20/21,,Williams2-72936,CK-4832,Cre-wt; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.8054+9C>T,NA0.090049,Yes,,yes,no,,Williams2-75044,Cre,Tg/+,Fzd6-Flox,Flox/+,162458,Lysm-cre-Fzd6-flox,226,Female,4/20/21,,Williams2-72936,CK-4832,Cre-Tg/+; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.732C>T (p.Ala244=),Ala,Ala,244,no,yes,,Williams2-75045,Cre,Tg/+,Fzd6-Flox,Flox/+,162459,Lysm-cre-Fzd6-flox,226,Female,4/20/21,,Williams2-72936,CK-4832,Cre-Tg/+; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.903C>T (p.Asn301=),Asn,Asn,301,no,yes,,Williams2-75570,,,,,164424,Aid-Cre,195,Male,5/21/21,,Williams2-72771,Williams2-74583,
+CELSR2,NM_001408.3(CELSR2):c.1610A>G (p.Asn537Ser),Asn,Ser,537,yes,yes,,Williams2-75571,,,,,164424,Aid-Cre,195,Male,5/21/21,,Williams2-72771,Williams2-74583,
+CELSR2,NM_001408.3(CELSR2):c.1892C>T (p.Thr631Met),Thr,Met,631,no,no,,Williams2-75572,,,,,164424,Aid-Cre,195,Male,5/21/21,,Williams2-72771,Williams2-74583,
+CELSR2,NM_001408.3(CELSR2):c.2001A>G (p.Val667=),Val,Val,667,no,yes,,Williams2-75573,,,,,164424,Aid-Cre,195,Male,5/21/21,,Williams2-72771,Williams2-74583,
+CELSR2,NM_001408.3(CELSR2):c.2379C>T (p.Pro793=),Pro,Pro,793,yes,no,,Williams2-75574,,,,,164425,Aid-Cre,195,Female,5/21/21,,Williams2-72771,Williams2-74583,
+CELSR2,NM_001408.3(CELSR2):c.2532T>C (p.Ser844=),Ser,Ser,844,yes,yes,,Williams2-75575,,,,,164425,Aid-Cre,195,Female,5/21/21,,Williams2-72771,Williams2-74583,
+CELSR2,NM_001408.3(CELSR2):c.3543C>T (p.Leu1181=),Leu,Leu,1181,yes,no,,Williams2-75576,,,,,164425,Aid-Cre,195,Female,5/21/21,,Williams2-72771,Williams2-74583,
+CELSR2,NM_001408.3(CELSR2):c.3552C>T (p.Ser1184=),Ser,Ser,1184,no,no,,Williams2-75577,,,,,164425,Aid-Cre,195,Female,5/21/21,,Williams2-72771,Williams2-74583,
+CELSR2,NM_001408.3(CELSR2):c.4329G>T (p.Val1443=),Val,Val,1443,yes,yes,,Williams2-75578,,,,,164425,Aid-Cre,195,Female,5/21/21,,Williams2-72771,Williams2-74583,
+CELSR2,NM_001408.3(CELSR2):c.5253C>T (p.Ala1751=),Ala,Ala,1751,no,yes,,Williams2-76247,Kras-LSL-Flox,Flox/+,p53-LSL-Flox,Wildtype (+/+),168221,Lysm-Cre-KPF6-flox,148,Male,7/7/21,,Williams2-74064,Williams2-74586,Kras-fl/+; p53-wt; Fzd6-fl/+; Cre-wt
+CELSR2,NM_001408.3(CELSR2):c.5400C>T (p.Asn1800=),Asn,Asn,1800,yes,no,,Williams2-76248,Kras-LSL-Flox,Flox/+,p53-LSL-Flox,Wildtype (+/+),168221,Lysm-Cre-KPF6-flox,148,Male,7/7/21,,Williams2-74064,Williams2-74586,Kras-fl/+; p53-wt; Fzd6-fl/fl; Cre-Tg/+
+CELSR2,NM_001408.3(CELSR2):c.6663C>T (p.Pro2221=),Pro,Pro,2221,no,yes,,Williams2-76249,Kras-LSL-Flox,Wildtype (+/+),p53-LSL-Flox,Flox/+,168221,Lysm-Cre-KPF6-flox,148,Male,7/7/21,,Williams2-74064,Williams2-74586,Kras-wt; p53-fl/+; Fzd6-fl/+; Cre-Tg/+
+CELSR2,NM_001408.3(CELSR2):c.6744C>T (p.Ser2248=),Ser,Ser,2248,no,yes,,Williams2-76250,Kras-LSL-Flox,Wildtype (+/+),p53-LSL-Flox,Flox/+,168221,Lysm-Cre-KPF6-flox,148,Male,7/7/21,,Williams2-74064,Williams2-74586,Kras-wt; p53-fl/+; Fzd6-fl/+; Cre-Tg/+
+CELSR2,NM_001408.3(CELSR2):c.6903C>T (p.Pro2301=),Pro,Pro,2301,yes,yes,,Williams2-76251,Kras-LSL-Flox,Wildtype (+/+),p53-LSL-Flox,Flox/+,168222,Lysm-Cre-KPF6-flox,148,Female,7/7/21,,Williams2-74064,Williams2-74586,Kras-wt; p53-fl/+; Fzd6-wt; Cre-wt
+CELSR2,NM_001408.3(CELSR2):c.8464G>A (p.Gly2822Arg),Gly,Arg,2822,no,no,,Williams2-76252,Kras-LSL-Flox,Wildtype (+/+),p53-LSL-Flox,Flox/+,168222,Lysm-Cre-KPF6-flox,148,Female,7/7/21,,Williams2-74064,Williams2-74586,Kras-wt; p53-fl/+; Fzd6-wt; Cre-Tg/+
+CELSR2,NM_001408.3(CELSR2):c.8055-5C>T,0.591543,Yes,,no,yes,,Williams2-76253,Cre,Tg/+,Kras-LSL-Flox,Flox/+,168223,Lysm-cre-Fzd6-flox,148,Male,7/7/21,,Williams2-74865,Williams2-74587,Cre-Tg/+; Kras-fl/+; p53-fl/+; Fzd6-fl/fl
+CELSR2,NM_001408.3(CELSR2):c.1754A>G (p.His585Arg),His,Arg,585,yes,no,,Williams2-76254,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),168223,Lysm-cre-Fzd6-flox,148,Male,7/7/21,,Williams2-74865,Williams2-74587,Cre-Tg/+; Kras-wt; p53-fl/+; Fzd6-wt
+CELSR2,NM_001408.3(CELSR2):c.4464C>T (p.Asp1488=),Asp,Asp,1488,yes,yes,,Williams2-76255,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,168223,Lysm-cre-Fzd6-flox,148,Male,7/7/21,,Williams2-74865,Williams2-74587,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/fl
+CELSR2,NM_001408.3(CELSR2):c.6048G>A (p.Gly2016=),Gly,Gly,2016,yes,no,,Williams2-76256,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),168224,Lysm-cre-Fzd6-flox,148,Female,7/7/21,,Williams2-74865,Williams2-74587,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.6189G>A (p.Thr2063=),Thr,Thr,2063,no,no,,Williams2-76257,Cre,Tg/+,Kras-LSL-Flox,Flox/+,168224,Lysm-cre-Fzd6-flox,148,Female,7/7/21,,Williams2-74865,Williams2-74587,Cre-Tg/+; Kras-fl/+; p53-; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.7243C>T (p.Leu2415=),Leu,Leu,2415,yes,yes,,Williams2-76258,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,168224,Lysm-cre-Fzd6-flox,148,Female,7/7/21,,Williams2-74865,Williams2-74587,Cre-wt; Kras-fl/+; p53-wt; Fzd6-wt
+CELSR2,NM_001408.3(CELSR2):c.7590C>T (p.Ala2530=),Ala,Ala,2530,no,yes,,Williams2-76259,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),168224,Lysm-cre-Fzd6-flox,148,Female,7/7/21,,Williams2-74865,Williams2-74587,Cre-wt; Kras-wt; p53-wt; Fzd6-wt
+CELSR2,NM_001408.3(CELSR2):c.7977C>T (p.Tyr2659=),Tyr,Tyr,2659,yes,no,,Williams2-76260,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),168224,Lysm-cre-Fzd6-flox,148,Female,7/7/21,,Williams2-74865,Williams2-74587,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/fl
+CELSR2,NM_001408.3(CELSR2):c.8413G>A (p.Gly2805Arg),Gly,Arg,2805,no,yes,,Williams2-76261,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),168225,Lysm-cre-Fzd6-flox,148,Female,7/7/21,,Williams2-74865,Williams2-74587,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/fl
+CELSR2,NM_001408.3(CELSR2):c.8646A>G (p.Pro2882=),Pro,Pro,2882,no,yes,,Williams2-76262,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),168225,Lysm-cre-Fzd6-flox,148,Female,7/7/21,,Williams2-74865,Williams2-74587,Cre-wt; Kras-wt; p53-wt; Fzd6-wt
+CELSR2,NM_001408.3(CELSR2):c.7484-7G>C,NA0.330986,No,,yes,yes,,Williams2-76263,Kras-LSL-Flox,Flox/+,p53-LSL-Flox,Flox/+,168226,Lysm-Cre-KPF6-flox,147,Male,7/8/21,,Williams2-74868,Williams2-74589,Kras-fl/+; p53-fl/+; Fzd6-fl/fl; Cre-Tg/+
+CELSR2,NM_001408.3(CELSR2):c.3579C>T (p.Pro1193=),Pro,Pro,1193,no,no,,Williams2-76264,Kras-LSL-Flox,Wildtype (+/+),p53-LSL-Flox,Wildtype (+/+),168226,Lysm-Cre-KPF6-flox,147,Male,7/8/21,,Williams2-74868,Williams2-74589,Kras-wt; p53-wt; Fzd6-fl/+; Cre-wt
+CELSR2,NM_001408.3(CELSR2):c.4494C>T (p.Val1498=),Val,Val,1498,no,yes,,Williams2-76265,Kras-LSL-Flox,Flox/+,p53-LSL-Flox,Flox/+,168226,Lysm-Cre-KPF6-flox,147,Male,7/8/21,,Williams2-74868,Williams2-74589,Kras-fl/+; p53-fl/+; Fzd6-fl/fl; Cre-Tg/+
+CELSR2,NM_001408.3(CELSR2):c.7548T>C (p.Tyr2516=),Tyr,Tyr,2516,yes,no,,Williams2-76266,Kras-LSL-Flox,Wildtype (+/+),p53-LSL-Flox,Wildtype (+/+),168226,Lysm-Cre-KPF6-flox,147,Male,7/8/21,,Williams2-74868,Williams2-74589,Kras-wt; p53-wt; Fzd6-fl/fl; Cre-Tg/+
+CELSR2,NM_001408.3(CELSR2):c.5912-4G>A,0.546238,Yes,,yes,yes,,Williams2-76267,Kras-LSL-Flox,Flox/+,p53-LSL-Flox,Flox/+,168227,Lysm-Cre-KPF6-flox,147,Female,7/8/21,,Williams2-74868,Williams2-74589,Kras-fl/+; p53-fl/+; Fzd6-fl/fl; Cre-Tg/+
+CELSR2,NM_001408.3(CELSR2):c.1137G>C (p.Arg379=),Arg,Arg,379,yes,no,,Williams2-76268,Kras-LSL-Flox,Flox/+,p53-LSL-Flox,Wildtype (+/+),168227,Lysm-Cre-KPF6-flox,147,Female,7/8/21,,Williams2-74868,Williams2-74589,Kras-fl/+; p53-wt; Fzd6-fl/+; Cre-wt
+CELSR2,NM_001408.3(CELSR2):c.1941C>G (p.Ile647Met),Ile,Met,647,no,no,,Williams2-76269,Kras-LSL-Flox,Flox/+,p53-LSL-Flox,Flox/+,168227,Lysm-Cre-KPF6-flox,147,Female,7/8/21,,Williams2-74868,Williams2-74589,Kras-fl/+; p53-fl/+; Fzd6-fl/+; Cre-Tg/+
+CELSR2,NM_001408.3(CELSR2):c.2489C>T (p.Pro830Leu),Pro,Leu,830,yes,yes,,Williams2-76270,Kras-LSL-Flox,Flox/+,p53-LSL-Flox,Flox/+,168227,Lysm-Cre-KPF6-flox,147,Female,7/8/21,,Williams2-74868,Williams2-74589,Kras-fl/+; p53-fl/+; Fzd6-wt; Cre-Tg/+
+CELSR2,NM_001408.3(CELSR2):c.5741G>A (p.Arg1914Gln),Arg,Gln,1914,no,yes,,Williams2-76367,Cre,Tg/+,Fzd6-Flox,Flox/+,168752,Aid-cre;Fzd6-flox,137,Male,7/18/21,,Williams2-74817,Williams2-74858,Cre-Tg/+; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.6769G>A (p.Gly2257Arg),Gly,Arg,2257,yes,no,,Williams2-76368,Cre,Tg/+,Fzd6-Flox,Flox/+,168752,Aid-cre;Fzd6-flox,137,Male,7/18/21,,Williams2-74817,Williams2-74858,Cre-Tg/+; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.2858A>G (p.Asn953Ser),Asn,Ser,953,no,yes,,Williams2-76369,Cre,Tg/+,Fzd6-Flox,Flox/+,168752,Aid-cre;Fzd6-flox,137,Male,7/18/21,,Williams2-74817,Williams2-74858,Cre-Tg/+; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.83C>T (p.Pro28Leu),Pro,Leu,28,no,yes,,Williams2-76370,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,168752,Aid-cre;Fzd6-flox,137,Male,7/18/21,,Williams2-74817,Williams2-74858,Cre-wt; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.6758G>A (p.Arg2253His),Arg,His,2253,yes,yes,,Williams2-76371,Cre,Tg/+,Fzd6-Flox,Flox/+,168753,Aid-cre;Fzd6-flox,137,Female,7/18/21,,Williams2-74817,Williams2-74858,Cre-Tg/+; Fzd6-fl/+
+CELSR2,NM_001408.3(CELSR2):c.2418C>T (p.Asn806=),Asn,Asn,806,no,no,,Williams2-76372,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,168753,Aid-cre;Fzd6-flox,137,Female,7/18/21,,Williams2-74817,Williams2-74858,Cre-wt; Fzd6-fl/+
+CHN1,NM_001822.7(CHN1):c.1106T>G (p.Ile369Ser),Ile,Ser,369,no,yes,,Williams2-76373,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,168753,Aid-cre;Fzd6-flox,137,Female,7/18/21,,Williams2-74817,Williams2-74858,Cre-wt; Fzd6-fl/+
+DVL1,NM_001330311.2(DVL1):c.737C>T (p.Ser246Phe),Ser,Phe,246,yes,no,,Williams2-76374,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,168753,Aid-cre;Fzd6-flox,137,Female,7/18/21,,Williams2-74817,Williams2-74858,Cre-wt; Fzd6-fl/+
+DVL1,NM_001330311.2(DVL1):c.433C>T (p.Arg145Trp),Arg,Trp,145,yes,yes,,Williams2-76375,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,168753,Aid-cre;Fzd6-flox,137,Female,7/18/21,,Williams2-74817,Williams2-74858,Cre-wt; Fzd6-fl/+
+DVL1,NM_001330311.2(DVL1):c.1502G>C (p.Cys501Ser),Cys,Ser,501,yes,no,,Williams2-76376,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,168754,Aid-cre;Fzd6-flox,137,Female,7/18/21,,Williams2-74817,Williams2-74858,Cre-wt; Fzd6-fl/+
+DVL1,NM_001330311.2(DVL1):c.1715-1G>A,,,,no,no,,Williams2-76377,Cre,Tg/+,Fzd6-Flox,Flox/+,168754,Aid-cre;Fzd6-flox,137,Female,7/18/21,,Williams2-74817,Williams2-74858,Cre-Tg/+; Fzd6-fl/+
+DVL1,NM_001330311.2(DVL1):c.665G>A (p.Arg222Gln),Arg,Gln,222,yes,yes,,Williams2-76378,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,168755,Aid-cre;Fzd6-flox,137,Male,7/18/21,,Williams2-74818,Williams2-74859,Cre-wt; Fzd6-fl/+
+DVL3,NM_004423.4(DVL3):c.1715-2A>G,,,,no,yes,,Williams2-76379,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,168755,Aid-cre;Fzd6-flox,137,Male,7/18/21,,Williams2-74818,Williams2-74859,Cre-wt; Fzd6-fl/+
+DVL3,NM_004423.4(DVL3):c.1715-1G>A,,,,yes,no,,Williams2-76380,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,168755,Aid-cre;Fzd6-flox,137,Male,7/18/21,,Williams2-74818,Williams2-74859,Cre-wt; Fzd6-fl/+
+DVL3,NM_004423.4(DVL3):c.1715-2A>C,,,,no,yes,,Williams2-76381,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,168755,Aid-cre;Fzd6-flox,137,Male,7/18/21,,Williams2-74818,Williams2-74859,Cre-wt; Fzd6-fl/+
+DVL3,NM_004423.4(DVL3):c.1715-1G>C,,,,no,yes,,Williams2-76382,Cre,Tg/+,Fzd6-Flox,Flox/+,168756,Aid-cre;Fzd6-flox,137,Male,7/18/21,,Williams2-74818,Williams2-74859,Cre-Tg/+; Fzd6-fl/+
+DVL3,NM_004423.4(DVL3):c.706A>G (p.Ser236Gly),Ser,Gly,236,yes,yes,,Williams2-76383,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,168756,Aid-cre;Fzd6-flox,137,Male,7/18/21,,Williams2-74818,Williams2-74859,Cre-wt; Fzd6-fl/+
+DVL3,NM_004423.4(DVL3):c.1120G>A (p.Ala374Thr),Ala,Thr,374,no,no,,Williams2-76384,Cre,,,,168757,Aid-cre;Fzd6-flox,137,Female,7/18/21,,Williams2-74818,Williams2-74859,Cre-
+FZD2,NM_001466.4(FZD2):c.1130G>A (p.Trp377Ter),Trp,Ter,377,no,yes,,Williams2-76741,Cre,,Kras2-Flox,Wildtype (+/+),169907,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,129,Male,7/26/21,,,Williams2-75202,Cre-; Kras2-wt; p53-wt; Fzd6-wt
+FZD2,NM_001466.4(FZD2):c.1300G>A (p.Gly434Ser),Gly,Ser,434,yes,no,,Williams2-76742,Cre,,Kras2-Flox,Wildtype (+/+),169907,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,129,Male,7/26/21,,,Williams2-75202,Cre-; Kras2-wt; p53-wt; Fzd6-fl/+
+FZD2,NM_001466.4(FZD2):c.1301G>T (p.Gly434Val),Gly,Val,434,yes,yes,,Williams2-76743,Cre,,Kras2-Flox,Wildtype (+/+),169907,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,129,Male,7/26/21,,,Williams2-75202,Cre-; Kras2-wt; p53-wt; Fzd6-fl/+
+FZD2,NM_001466.4(FZD2):c.1238G>A (p.Arg413Gln),Arg,Gln,413,yes,no,,Williams2-76744,Cre,,Kras2-Flox,Wildtype (+/+),169908,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,129,Female,7/26/21,,,Williams2-75202,Cre-; Kras2-wt; p53-wt; Fzd6-wt
+FZD2,NM_001466.4(FZD2):c.655C>T (p.Arg219Cys),Arg,Cys,219,no,no,,Williams2-76589,Cre,Tg/+,Kras2-Flox,Flox/+,169748,Lysm-Cre-KPF6-flox,126,Male,7/29/21,,Williams2-74064,Williams2-74586,Cre-Tg/+; Kras2-fl/+; p53-fl/+; Fzd6-fl/fl
+FZD2,NM_001466.4(FZD2):c.1403T>G (p.Leu468Arg),Leu,Arg,468,yes,yes,,Williams2-76590,Cre,Wildtype (+/+),Kras2-Flox,Flox/+,169748,Lysm-Cre-KPF6-flox,126,Male,7/29/21,,Williams2-74064,Williams2-74586,Cre-wt; Kras2-fl/+; p53-fl/+; Fzd6-wt
+FZD2,NM_001466.4(FZD2):c.1644G>A (p.Trp548Ter),Trp,Ter,548,no,yes,,Williams2-76591,Cre,Tg/+,Kras2-Flox,Wildtype (+/+),169748,Lysm-Cre-KPF6-flox,126,Male,7/29/21,,Williams2-74064,Williams2-74586,Cre-Tg/+; Kras2-wt; p53-fl/+; Fzd6-fl/+
+FZD2,NM_001466.4(FZD2):c.606G>T (p.Pro202=),Pro,Pro,202,yes,no,,Williams2-76592,Cre,Wildtype (+/+),Kras2-Flox,Flox/+,169748,Lysm-Cre-KPF6-flox,126,Male,7/29/21,,Williams2-74064,Williams2-74586,Cre-wt; Kras2-fl/+; p53-wt; Fzd6-fl/fl
+FZD2,NM_001466.4(FZD2):c.1386C>A (p.Ile462=),Ile,Ile,462,no,yes,,Williams2-76593,Cre,Tg/+,Kras2-Flox,Flox/+,169749,Lysm-Cre-KPF6-flox,126,Female,7/29/21,,Williams2-74064,Williams2-74586,Cre-Tg/+; Kras2-fl/+; p53-wt; Fzd6-fl/+
+FZD2,NM_001466.4(FZD2):c.1523C>T (p.Ala508Val),Ala,Val,508,no,yes,,Williams2-76594,Cre,Wildtype (+/+),Kras2-Flox,Wildtype (+/+),169749,Lysm-Cre-KPF6-flox,126,Female,7/29/21,,Williams2-74064,Williams2-74586,Cre-wt; Kras2-wt; p53-wt; Fzd6-fl/+
+FZD2,NM_001466.4(FZD2):c.38C>T (p.Pro13Leu),Pro,Leu,13,yes,yes,,Williams2-76595,Cre,Tg/+,Kras2-Flox,Flox/+,169749,Lysm-Cre-KPF6-flox,126,Female,7/29/21,,Williams2-74064,Williams2-74586,Cre-Tg/+; Kras2-fl/+; p53-fl/+; Fzd6-fl/fl
+FZD2,NM_001466.4(FZD2):c.909C>T (p.Arg303=),Arg,Arg,303,no,no,,Williams2-76596,Cre,Tg/+,Kras2-Flox,Flox/+,169749,Lysm-Cre-KPF6-flox,126,Female,7/29/21,,Williams2-74064,Williams2-74586,Cre-Tg/+; Kras2-fl/+; p53-fl/+; Fzd6-fl/fl
+FZD2,NM_001466.4(FZD2):c.61G>C (p.Gly21Arg),Gly,Arg,21,no,yes,,Williams2-76597,Cre,Tg/+,Kras2-Flox,Wildtype (+/+),169749,Lysm-Cre-KPF6-flox,126,Female,7/29/21,,Williams2-74064,Williams2-74586,Cre-Tg/+; Kras2-wt; p53-fl/+; Fzd6-fl/+
+FZD2,NM_001466.4(FZD2):c.749C>T (p.Thr250Ile),Thr,Ile,250,yes,no,,Williams2-76598,Cre,Tg/+,Kras2-Flox,Wildtype (+/+),169750,Lysm-cre-Fzd6-flox,125,Male,7/30/21,,Williams2-74865,Williams2-74587,Cre-Tg/+; Kras2-wt; p53-fl/+; Fzd6-wt
+FZD2,NM_001466.4(FZD2):c.66G>C (p.Pro22=),Pro,Pro,22,yes,yes,,Williams2-76599,Cre,Tg/+,Kras2-Flox,Flox/+,169750,Lysm-cre-Fzd6-flox,125,Male,7/30/21,,Williams2-74865,Williams2-74587,Cre-Tg/+; Kras2-fl/+; p53-wt; Fzd6-wt
+FZD2,NM_001466.4(FZD2):c.90C>T (p.Gly30=),Gly,Gly,30,yes,no,,Williams2-76600,Cre,Tg/+,Kras2-Flox,Wildtype (+/+),169750,Lysm-cre-Fzd6-flox,125,Male,7/30/21,,Williams2-74865,Williams2-74587,Cre-Tg/+; Kras2-wt; p53-fl/+; Fzd6-wt
+FZD2,NM_001466.4(FZD2):c.1047G>A (p.Ser349=),Ser,Ser,349,no,no,,Williams2-76601,Cre,Tg/+,Kras2-Flox,Flox/+,169750,Lysm-cre-Fzd6-flox,125,Male,7/30/21,,Williams2-74865,Williams2-74587,Cre-Tg/+; Kras2-fl/+; p53-wt; Fzd6-wt
+FZD2,NM_001466.4(FZD2):c.1301G>C (p.Gly434Ala),Gly,Ala,434,yes,yes,,Williams2-76602,Cre,Wildtype (+/+),Kras2-Flox,Wildtype (+/+),169751,Lysm-cre-Fzd6-flox,125,Male,7/30/21,,Williams2-74865,Williams2-74587,Cre-wt; Kras2-wt; p53-fl/+; Fzd6-fl/+
+FZD2,NM_001466.4(FZD2):c.572G>T (p.Arg191Leu),Arg,Leu,191,no,yes,,Williams2-76603,Cre,Wildtype (+/+),Kras2-Flox,Flox/+,169751,Lysm-cre-Fzd6-flox,125,Male,7/30/21,,Williams2-74865,Williams2-74587,Cre-wt; Kras2-fl/+; p53-wt; Fzd6-fl/+
+FZD2,NM_001466.4(FZD2):c.400G>C (p.Glu134Gln),Glu,Gln,134,yes,no,,Williams2-76604,Cre,Tg/+,Kras2-Flox,Wildtype (+/+),169751,Lysm-cre-Fzd6-flox,125,Male,7/30/21,,Williams2-74865,Williams2-74587,Cre-Tg/+; Kras2-wt; p53-wt; Fzd6-fl/+
+FZD2,NM_001466.4(FZD2):c.1130G>A (p.Trp377Ter),Trp,Ter,377,no,yes,,Williams2-76605,Cre,Wildtype (+/+),Kras2-Flox,Wildtype (+/+),169751,Lysm-cre-Fzd6-flox,125,Male,7/30/21,,Williams2-74865,Williams2-74587,Cre-wt; Kras2-wt; p53-wt; Fzd6-fl/+
+FZD2,NM_001466.4(FZD2):c.1300G>A (p.Gly434Ser),Gly,Ser,434,no,yes,,Williams2-76606,Cre,Tg/+,Kras2-Flox,Flox/+,169752,Lysm-cre-Fzd6-flox,125,Female,7/30/21,,Williams2-74865,Williams2-74587,Cre-Tg/+; Kras2-fl/+; p53-wt; Fzd6-wt
+FZD2,NM_001466.4(FZD2):c.1301G>T (p.Gly434Val),Gly,Val,434,yes,yes,,Williams2-76607,Cre,Tg/+,Kras2-Flox,Flox/+,169752,Lysm-cre-Fzd6-flox,125,Female,7/30/21,,Williams2-74865,Williams2-74587,Cre-Tg/+; Kras2-fl/+; p53-wt; Fzd6-wt
+FZD2,NM_001466.4(FZD2):c.1644G>A (p.Trp548Ter),Trp,Ter,548,no,no,,Williams2-76608,Cre,Tg/+,Kras2-Flox,Flox/+,169753,Lysm-Cre-KPF6-flox,124,Male,7/31/21,,Williams2-74868,Williams2-74589,Cre-Tg/+; Kras2-fl/+; p53-fl/+; Fzd6-fl/fl
+FZD2,NM_001466.4(FZD2):c.1301_1302delinsTT (p.Gly434Val),Gly,Val,434,no,yes,,Williams2-76609,Cre,Wildtype (+/+),Kras2-Flox,Wildtype (+/+),169753,Lysm-Cre-KPF6-flox,124,Male,7/31/21,,Williams2-74868,Williams2-74589,Cre-wt; Kras2-wt; p53-fl/+; Fzd6-fl/fl
+FZD2,NM_001466.4(FZD2):c.33_34insATGCCG (p.Leu12_Pro13insMetPro),Leu,_Pro13insMetPro,,yes,no,,Williams2-76610,Cre,Wildtype (+/+),Kras2-Flox,Wildtype (+/+),169754,Lysm-Cre-KPF6-flox,124,Female,7/31/21,,Williams2-74868,Williams2-74589,Cre-wt; Kras2-wt; p53-wt; Fzd6-wt
+FZD2,NM_001466.4(FZD2):c.367_388dup (p.Phe130fs),Phe,fs,130,yes,yes,,Williams2-76611,Cre,Tg/+,Kras2-Flox,Wildtype (+/+),169754,Lysm-Cre-KPF6-flox,124,Female,7/31/21,,Williams2-74868,Williams2-74589,Cre-Tg/+; Kras2-wt; p53-fl/+; Fzd6-fl/+
+FZD3,NM_017412.4(FZD3):c.1616dup (p.Asp539fs),Asp,fs,539,yes,no,,Williams2-76612,Cre,Wildtype (+/+),Kras2-Flox,Wildtype (+/+),169754,Lysm-Cre-KPF6-flox,124,Female,7/31/21,,Williams2-74868,Williams2-74589,Cre-wt; Kras2-wt; p53-wt; Fzd6-fl/fl
+FZD3,NM_017412.4(FZD3):c.888del (p.Phe296fs),Phe,fs,296,no,no,,Williams2-76613,Cre,Wildtype (+/+),Kras2-Flox,Wildtype (+/+),169754,Lysm-Cre-KPF6-flox,124,Female,7/31/21,,Williams2-74868,Williams2-74589,Cre-wt; Kras2-wt; p53-wt; Fzd6-fl/fl
+FZD3,NM_017412.4(FZD3):c.1616dup (p.Asp539fs),Asp,fs,539,yes,yes,,Williams2-76614,Cre,Wildtype (+/+),Kras2-Flox,Flox/+,169754,Lysm-Cre-KPF6-flox,124,Female,7/31/21,,Williams2-74868,Williams2-74589,Cre-wt; Kras2-fl/+; p53-wt; Fzd6-wt
+FZD3,NM_017412.4(FZD3):c.888del (p.Phe296fs),Phe,fs,296,no,yes,,Williams2-76615,Cre,Tg/+,Kras2-Flox,Wildtype (+/+),169755,Lysm-Cre-KPF6-flox,124,Female,7/31/21,,Williams2-74868,Williams2-74589,Cre-Tg/+; Kras2-wt; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.1479_1484del (p.Met493_Trp494del),Met,_Trp494del,,yes,no,,Williams2-76616,Cre,Tg/+,Kras2-Flox,Flox/+,169755,Lysm-Cre-KPF6-flox,124,Female,7/31/21,,Williams2-74868,Williams2-74589,Cre-Tg/+; Kras2-fl/+; p53-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.1501_1502del (p.Leu501fs),Leu,fs,501,no,yes,,Williams2-76617,Cre,Tg/+,Kras2-Flox,Wildtype (+/+),169755,Lysm-Cre-KPF6-flox,124,Female,7/31/21,,Williams2-74868,Williams2-74589,Cre-Tg/+; Kras2-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.1282_1285del (p.Asp428fs),Asp,fs,428,no,yes,,Williams2-76875,Cre,Tg/+,Kras-LSL-Flox,Flox/+,170661,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,111,Male,8/13/21,,,Williams2-75202,Cre-Tg/+; Kras-fl/+; p53-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.288del (p.Phe97fs),Phe,fs,97,yes,yes,,Williams2-76876,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),170662,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,111,Female,8/13/21,,,Williams2-75202,Cre-wt; Kras-wt; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*5282_*5283del,,,,no,no,,Williams2-76877,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,170662,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,111,Female,8/13/21,,,Williams2-75202,Cre-wt; Kras-fl/+; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*5250del,,NA0.267790,No,no,yes,,Williams2-76878,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),170662,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,111,Female,8/13/21,,,Williams2-75202,Cre-wt; Kras-wt; p53-fl/+; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*3909_*3912TTTG[9],,,,yes,no,,Williams2-76879,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),170662,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,111,Female,8/13/21,,,Williams2-75202,Cre-Tg/+; Kras-wt; p53-fl/+; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*3909_*3912TTTG[6],,,,yes,yes,,Williams2-77157,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),171821,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,108,Male,8/16/21,,,Williams2-75202,Cre-wt; Kras-wt; p53-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*2956_*2960delinsAGTTAAAAGC,,,,yes,no,,Williams2-77158,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),171821,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,108,Male,8/16/21,,,Williams2-75202,Cre-wt; Kras-wt; p53-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*2747dup,,0.040637,No,no,no,,Williams2-77159,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),171821,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,108,Male,8/16/21,,,Williams2-75202,Cre-Tg/+; Kras-wt; p53-fl/+; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*3909_*3912TTTG[4],,,,yes,yes,,Williams2-77160,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,171821,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,108,Male,8/16/21,,,Williams2-75202,Cre-wt; Kras-fl/+; p53-fl/+; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*3909_*3912TTTG[7],,,,no,yes,,Williams2-77161,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,171822,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,108,Female,8/16/21,,,Williams2-75202,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*3909_*3912TTTG[5],,,,yes,no,,Williams2-77162,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,171822,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,108,Female,8/16/21,,,Williams2-75202,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*3060del,,0.162049,No,no,yes,,Williams2-77163,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),171822,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,108,Female,8/16/21,,,Williams2-75202,Cre-wt; Kras-wt; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.40_49del (p.Pro14fs),Pro,fs,14,no,yes,,Williams2-77164,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,171880,Lysm-Cre-KPF6-flox,102,Male,8/22/21,,Williams2-74064,Williams2-74586,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.1218TGC[1] (p.Ala408del),Ala,del,408,yes,yes,,Williams2-77165,Cre,Wildtype (+/+),Kras-LSL-Flox,,171880,Lysm-Cre-KPF6-flox,102,Male,8/22/21,,Williams2-74064,Williams2-74586,Cre-wt; Kras-; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.614del (p.Gly205fs),Gly,fs,205,no,no,,Williams2-77166,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),171880,Lysm-Cre-KPF6-flox,102,Male,8/22/21,,Williams2-74064,Williams2-74586,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.1507_1508del (p.Thr503fs),Thr,fs,503,no,yes,,Williams2-77167,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,171881,Lysm-Cre-KPF6-flox,102,Male,8/22/21,,Williams2-74064,Williams2-74586,Cre-wt; Kras-fl/+; p53-fl/+; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.534_580dup (p.Val194fs),Val,fs,194,yes,no,,Williams2-77168,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,171881,Lysm-Cre-KPF6-flox,102,Male,8/22/21,,Williams2-74064,Williams2-74586,Cre-wt; Kras-fl/+; p53-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.615del (p.Tyr206fs),Tyr,fs,206,yes,yes,,Williams2-77169,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),171882,Lysm-Cre-KPF6-flox,102,Female,8/22/21,,Williams2-74064,Williams2-74586,Cre-wt; Kras-wt; p53-fl/+; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.124_285+165del,,,,yes,no,,Williams2-77170,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,171882,Lysm-Cre-KPF6-flox,102,Female,8/22/21,,Williams2-74064,Williams2-74586,Cre-wt; Kras-fl/+; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.661dup (p.Ile221fs),Ile,fs,221,no,no,,Williams2-77171,Cre,Tg/+,Kras-LSL-Flox,Flox/+,171882,Lysm-Cre-KPF6-flox,102,Female,8/22/21,,Williams2-74064,Williams2-74586,Cre-Tg/+; Kras-fl/+; p53-fl/+; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.1561_1562del (p.Lys521fs),Lys,fs,521,yes,yes,,Williams2-77172,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,171882,Lysm-Cre-KPF6-flox,102,Female,8/22/21,,Williams2-74064,Williams2-74586,Cre-wt; Kras-fl/+; p53-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.175_177del (p.Asn59del),Asn,del,59,no,yes,,Williams2-77173,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,171883,Lysm-Cre-KPF6-flox,102,Female,8/22/21,,Williams2-74064,Williams2-74586,Cre-wt; Kras-fl/+; p53-fl/+; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.81GCT[2] (p.Leu31del),Leu,del,31,yes,no,,Williams2-77174,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),171883,Lysm-Cre-KPF6-flox,102,Female,8/22/21,,Williams2-74064,Williams2-74586,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.1510_1528del (p.Trp504fs),Trp,fs,504,no,yes,,Williams2-77531,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,173255,Lysm-Cre-KPF6-flox,84,Male,9/9/21,,Williams2-76277,Williams2-74587,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.1250G>A (p.Arg417Gln),Arg,Gln,417,no,yes,,Williams2-77532,Cre,Tg/+,Kras-LSL-Flox,Flox/+,173255,Lysm-Cre-KPF6-flox,84,Male,9/9/21,,Williams2-76277,Williams2-74587,Cre-Tg/+; Kras-fl/+; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.1024A>G (p.Met342Val),Met,Val,342,yes,yes,,Williams2-77533,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),173255,Lysm-Cre-KPF6-flox,84,Male,9/9/21,,Williams2-76277,Williams2-74587,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.1005G>C (p.Trp335Cys),Trp,Cys,335,no,no,,Williams2-77534,Cre,Tg/+,Kras-LSL-Flox,Flox/+,173255,Lysm-Cre-KPF6-flox,84,Male,9/9/21,,Williams2-76277,Williams2-74587,Cre-Tg/+; Kras-fl/+; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.766A>G (p.Ile256Val),Ile,Val,256,no,yes,,Williams2-77535,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),173256,Lysm-Cre-KPF6-flox,84,Female,9/9/21,,Williams2-76277,Williams2-74587,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.362G>T (p.Cys121Phe),Cys,Phe,121,yes,no,,Williams2-77536,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,173256,Lysm-Cre-KPF6-flox,84,Female,9/9/21,,Williams2-76277,Williams2-74587,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.205C>T (p.His69Tyr),His,Tyr,69,yes,yes,,Williams2-77419,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,173101,Lysm-Cre-KPF6-flox,83,Male,9/10/21,,Williams2-76279,Williams2-74589,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.97C>T (p.Pro33Ser),Pro,Ser,33,yes,no,,Williams2-77420,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,173101,Lysm-Cre-KPF6-flox,83,Male,9/10/21,,Williams2-76279,Williams2-74589,Cre-wt; Kras-fl/+; p53-fl/+; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.729C>T (p.Ile243=),Ile,Ile,243,no,no,,Williams2-77421,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),173101,Lysm-Cre-KPF6-flox,83,Male,9/10/21,,Williams2-76279,Williams2-74589,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.1025T>C (p.Met342Thr),Met,Thr,342,yes,yes,,Williams2-77422,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),173102,Lysm-Cre-KPF6-flox,83,Male,9/10/21,,Williams2-76279,Williams2-74589,Cre-Tg/+; Kras-wt; p53-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.313A>G (p.Met105Val),Met,Val,105,no,yes,,Williams2-77423,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),173102,Lysm-Cre-KPF6-flox,83,Male,9/10/21,,Williams2-76279,Williams2-74589,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.961G>A (p.Val321Ile),Val,Ile,321,yes,no,,Williams2-77424,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,173103,Lysm-Cre-KPF6-flox,83,Female,9/10/21,,Williams2-76279,Williams2-74589,Cre-wt; Kras-fl/+; p53-fl/+; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.1194T>C (p.Tyr398=),Tyr,Tyr,398,no,yes,,Williams2-77425,Cre,Tg/+,Kras-LSL-Flox,Flox/+,173103,Lysm-Cre-KPF6-flox,83,Female,9/10/21,,Williams2-76279,Williams2-74589,Cre-Tg/+; Kras-fl/+; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.118G>C (p.Glu40Gln),Glu,Gln,40,no,yes,,Williams2-77426,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,173103,Lysm-Cre-KPF6-flox,83,Female,9/10/21,,Williams2-76279,Williams2-74589,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*5077C>G,,0.918556,No,yes,yes,,Williams2-77427,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),173103,Lysm-Cre-KPF6-flox,83,Female,9/10/21,,Williams2-76279,Williams2-74589,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*3888G>A,,0.031946,No,no,no,,Williams2-77673,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),174099,Lysm-Cre-KPF6-flox,75,Male,9/18/21,,Williams2-74868,Williams2-74589,Cre-Tg/+; Kras-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*3792A>T,,0.120319,No,no,yes,,Williams2-77674,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),174099,Lysm-Cre-KPF6-flox,75,Male,9/18/21,,Williams2-74868,Williams2-74589,Cre-Tg/+; Kras-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*3746C>T,,0.12874,No,yes,no,,Williams2-77675,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),174099,Lysm-Cre-KPF6-flox,75,Male,9/18/21,,Williams2-74868,Williams2-74589,Cre-wt; Kras-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*3479C>G,,0.430726,No,yes,yes,,Williams2-77676,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),174100,Lysm-Cre-KPF6-flox,75,Male,9/18/21,,Williams2-74868,Williams2-74589,Cre-wt; Kras-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*3042A>G,,0.053601,No,yes,no,,Williams2-77677,Cre,,Kras-LSL-Flox,Flox/+,174100,Lysm-Cre-KPF6-flox,75,Male,9/18/21,,Williams2-74868,Williams2-74589,Cre-; Kras-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*2971T>C,,0.321918,No,no,no,,Williams2-77678,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,174101,Lysm-Cre-KPF6-flox,75,Female,9/18/21,,Williams2-74868,Williams2-74589,Cre-wt; Kras-fl/+; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.*2619T>C,,1.235441,No,yes,yes,,Williams2-77679,Cre,Tg/+,Kras-LSL-Flox,Flox/+,174101,Lysm-Cre-KPF6-flox,75,Female,9/18/21,,Williams2-74868,Williams2-74589,Cre-Tg/+; Kras-fl/+; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.*2581G>T,,0.763693,No,no,yes,,Williams2-77680,Cre,,Kras-LSL-Flox,,174101,Lysm-Cre-KPF6-flox,75,Female,9/18/21,,Williams2-74868,Williams2-74589,Cre-; Kras-; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*2496G>A,,0.352142,No,yes,no,,Williams2-77681,Cre,Wildtype (+/+),Fzd6-Flox,Wildtype (+/+),174102,Lysm-cre-Fzd6-flox,73,Male,9/20/21,,Williams2-74865,Williams2-74587,Cre-wt; Fzd6-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*1695A>C,,0.118597,No,no,yes,,Williams2-77682,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,174102,Lysm-cre-Fzd6-flox,73,Male,9/20/21,,Williams2-74865,Williams2-74587,Cre-wt; Fzd6-fl/+; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.*1481C>T,,0.384785,No,no,yes,,Williams2-77683,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,174102,Lysm-cre-Fzd6-flox,73,Male,9/20/21,,Williams2-74865,Williams2-74587,Cre-wt; Fzd6-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*1298C>T,,1.446459,No,yes,yes,,Williams2-77684,Cre,Wildtype (+/+),Fzd6-Flox,Flox/+,174102,Lysm-cre-Fzd6-flox,73,Male,9/20/21,,Williams2-74865,Williams2-74587,Cre-wt; Fzd6-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*345A>G,,1.46611,No,no,no,,Williams2-77685,Cre,Wildtype (+/+),Fzd6-Flox,Wildtype (+/+),174103,Lysm-cre-Fzd6-flox,73,Male,9/20/21,,Williams2-74865,Williams2-74587,Cre-wt; Fzd6-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.1440A>G (p.Lys480=),Lys,Lys,480,no,yes,,Williams2-77686,Cre,Tg/+,Fzd6-Flox,,174103,Lysm-cre-Fzd6-flox,73,Male,9/20/21,,Williams2-74865,Williams2-74587,Cre-Tg/+; Fzd6-; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.-262C>T,,0.573958,No,yes,no,,Williams2-77687,Cre,Wildtype (+/+),Fzd6-Flox,Wildtype (+/+),174104,Lysm-cre-Fzd6-flox,73,Female,9/20/21,,Williams2-74865,Williams2-74587,Cre-wt; Fzd6-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*5451G>A,,1.016321,No,yes,yes,,Williams2-77688,Cre,Wildtype (+/+),Fzd6-Flox,Wildtype (+/+),174103,Lysm-cre-Fzd6-flox,73,Male,9/20/21,,Williams2-74865,Williams2-74587,Cre-wt; Fzd6-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.*4867A>G,,NA0.038605,No,yes,no,,Williams2-77689,Cre,Tg/+,Fzd6-Flox,Wildtype (+/+),174103,Lysm-cre-Fzd6-flox,73,Male,9/20/21,,Williams2-74865,Williams2-74587,Cre-Tg/+; Fzd6-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.*4678A>G,,0.036265,No,no,no,,Williams2-77690,Cre,Wildtype (+/+),Fzd6-Flox,Wildtype (+/+),174104,Lysm-cre-Fzd6-flox,73,Female,9/20/21,,Williams2-74865,Williams2-74587,Cre-wt; Fzd6-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*4516C>T,,0.08128,No,yes,yes,,Williams2-77691,Cre,Tg/+,Kras-LSL-Flox,Flox/+,174349,Lysm-Cre-KPF6-flox,70,Male,9/23/21,,Williams2-75711,Williams2-74586,Cre-Tg/+; Kras-fl/+; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*4414T>C,,0.134539,No,no,yes,,Williams2-77692,Cre,Tg/+,Kras-LSL-Flox,,174349,Lysm-Cre-KPF6-flox,70,Male,9/23/21,,Williams2-75711,Williams2-74586,Cre-Tg/+; Kras-; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*4069G>A,,NA1.001576,No,yes,no,,Williams2-77693,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),174349,Lysm-Cre-KPF6-flox,70,Male,9/23/21,,Williams2-75711,Williams2-74586,Cre-wt; Kras-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.*4068C>T,,NA0.364937,No,no,yes,,Williams2-77694,Cre,Tg/+,Kras-LSL-Flox,Flox/+,174349,Lysm-Cre-KPF6-flox,70,Male,9/23/21,,Williams2-75711,Williams2-74586,Cre-Tg/+; Kras-fl/+; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.*3814C>T,,NA0.208808,No,no,yes,,Williams2-77695,Cre,Tg/+,Kras-LSL-Flox,Flox/+,174350,Lysm-Cre-KPF6-flox,70,Female,9/23/21,,Williams2-75711,Williams2-74586,Cre-Tg/+; Kras-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*3700A>G,,NA0.027797,No,yes,yes,,Williams2-77696,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),174350,Lysm-Cre-KPF6-flox,70,Female,9/23/21,,Williams2-75711,Williams2-74586,Cre-wt; Kras-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*3574C>T,,0.032951,No,no,no,,Williams2-77697,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),174350,Lysm-Cre-KPF6-flox,70,Female,9/23/21,,Williams2-75711,Williams2-74586,Cre-wt; Kras-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*2302A>G,,0.219722,No,no,yes,,Williams2-77698,Cre,Wildtype (+/+),Kras-LSL-Flox,,174350,Lysm-Cre-KPF6-flox,70,Female,9/23/21,,Williams2-75711,Williams2-74586,Cre-wt; Kras-; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*1121G>C,,1.683836,No,yes,no,,Williams2-77699,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),174350,Lysm-Cre-KPF6-flox,70,Female,9/23/21,,Williams2-75711,Williams2-74586,Cre-Tg/+; Kras-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.*1050T>G,,1.833784,No,yes,yes,,Williams2-77700,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,174481,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,69,Male,9/24/21,,Williams2-76394,Williams2-76382,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.*827A>G,,1.925121,No,yes,no,,Williams2-77701,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),174481,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,69,Male,9/24/21,,Williams2-76394,Williams2-76382,Cre-Tg/+; Kras-wt; p53-fl/+; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.*799A>G,,0.645124,No,no,no,,Williams2-77702,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),174482,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,69,Female,9/24/21,,Williams2-76394,Williams2-76382,Cre-wt; Kras-wt; p53-fl/+; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.*779G>A,,1.468483,No,yes,yes,,Williams2-77703,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),174482,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,69,Female,9/24/21,,Williams2-76394,Williams2-76382,Cre-wt; Kras-wt; p53-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*764T>C,,1.868383,No,no,yes,,Williams2-77704,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),174482,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,69,Female,9/24/21,,Williams2-76394,Williams2-76382,Cre-wt; Kras-wt; p53-fl/+; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.*672C>T,,0.924437,No,yes,no,,Williams2-77705,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),174482,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,69,Female,9/24/21,,Williams2-76394,Williams2-76382,Cre-Tg/+; Kras-wt; p53-fl/+; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*2G>T,,0.018312,Yes,no,yes,,Williams2-77886,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,175226,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,65,Male,9/28/21,,Williams2-76392,Williams2-76396,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.1517A>G (p.Lys506Arg),Lys,Arg,506,no,yes,,Williams2-77887,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),175226,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,65,Male,9/28/21,,Williams2-76392,Williams2-76396,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.502C>T (p.Pro168Ser),Pro,Ser,168,yes,yes,,Williams2-77888,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),175226,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,65,Male,9/28/21,,Williams2-76392,Williams2-76396,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.304T>A (p.Tyr102Asn),Tyr,Asn,102,no,no,,Williams2-77889,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,175227,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,65,Female,9/28/21,,Williams2-76392,Williams2-76396,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.-12C>A,,0.927389,Yes,no,yes,,Williams2-77890,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),175227,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,65,Female,9/28/21,,Williams2-76392,Williams2-76396,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*5368C>T,,0.738063,No,yes,no,,Williams2-77891,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),175227,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,65,Female,9/28/21,,Williams2-76392,Williams2-76396,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*4664T>C,,0.23952,No,yes,yes,,Williams2-77892,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),175228,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,65,Male,9/28/21,,Williams2-76614,Williams2-76397,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*4618G>A,,NA0.000194,No,yes,no,,Williams2-77893,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,175228,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,65,Male,9/28/21,,Williams2-76614,Williams2-76397,Cre-wt; Kras-fl/+; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*4335T>C,,0.096658,No,no,no,,Williams2-77894,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),175229,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,65,Female,9/28/21,,Williams2-76614,Williams2-76397,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*4083A>C,,NA0.125976,No,yes,yes,,Williams2-77983,Cre,,Kras-LSL-Flox,,175646,Lysm-Cre-KPF6-flox,55,Male,10/8/21,,Williams2-74064,Williams2-74586,Cre-; Kras-; p53-; Fzd6-
+FZD4,NM_012193.4(FZD4):c.*3770A>T,,NA0.318435,No,no,yes,,Williams2-77984,Cre,,Kras-LSL-Flox,,175646,Lysm-Cre-KPF6-flox,55,Male,10/8/21,,Williams2-74064,Williams2-74586,Cre-; Kras-; p53-; Fzd6-
+FZD4,NM_012193.4(FZD4):c.*3197C>G,,0.159621,No,yes,no,,Williams2-77985,Cre,,Kras-LSL-Flox,,175646,Lysm-Cre-KPF6-flox,55,Male,10/8/21,,Williams2-74064,Williams2-74586,Cre-; Kras-; p53-; Fzd6-
+FZD4,NM_012193.4(FZD4):c.*2779A>C,,0.213687,No,no,yes,,Williams2-77986,Cre,,Kras-LSL-Flox,,175646,Lysm-Cre-KPF6-flox,55,Male,10/8/21,,Williams2-74064,Williams2-74586,Cre-; Kras-; p53-; Fzd6-
+FZD4,NM_012193.4(FZD4):c.*2660C>T,,1.381268,No,no,yes,,Williams2-77987,Cre,,Kras-LSL-Flox,,175647,Lysm-Cre-KPF6-flox,55,Female,10/8/21,,Williams2-74064,Williams2-74586,Cre-; Kras-; p53-; Fzd6-
+FZD4,NM_012193.4(FZD4):c.*2639A>G,,1.336218,No,yes,yes,,Williams2-77988,Cre,,Kras-LSL-Flox,,175647,Lysm-Cre-KPF6-flox,55,Female,10/8/21,,Williams2-74064,Williams2-74586,Cre-; Kras-; p53-; Fzd6-
+FZD4,NM_012193.4(FZD4):c.*2517A>G,,0.01052,No,no,no,,Williams2-77989,Cre,,Kras-LSL-Flox,,175647,Lysm-Cre-KPF6-flox,55,Female,10/8/21,,Williams2-74064,Williams2-74586,Cre-; Kras-; p53-; Fzd6-
+FZD4,NM_012193.4(FZD4):c.*2150A>C,,0.659515,No,no,yes,,Williams2-77990,Cre,,Kras-LSL-Flox,,175648,Lysm-Cre-KPF6-flox,53,Male,10/10/21,,Williams2-74868,Williams2-74589,Cre-; Kras-; p53-; Fzd6-
+FZD4,NM_012193.4(FZD4):c.*2101C>G,,NA0.443767,No,yes,no,,Williams2-77991,Cre,,Kras-LSL-Flox,,175648,Lysm-Cre-KPF6-flox,53,Male,10/10/21,,Williams2-74868,Williams2-74589,Cre-; Kras-; p53-; Fzd6-
+FZD4,NM_012193.4(FZD4):c.*647A>G,,1.063849,No,yes,yes,,Williams2-77992,Cre,,Kras-LSL-Flox,,175648,Lysm-Cre-KPF6-flox,53,Male,10/10/21,,Williams2-74868,Williams2-74589,Cre-; Kras-; p53-; Fzd6-
+FZD4,NM_012193.4(FZD4):c.*135C>T,,NA0.221275,No,yes,no,,Williams2-77993,Cre,,Kras-LSL-Flox,,175649,Lysm-Cre-KPF6-flox,53,Female,10/10/21,,Williams2-74868,Williams2-74589,Cre-; Kras-; p53-; Fzd6-
+FZD4,NM_012193.4(FZD4):c.1589G>A (p.Gly530Glu),Gly,Glu,530,no,no,,Williams2-77994,Cre,,Kras-LSL-Flox,,175649,Lysm-Cre-KPF6-flox,53,Female,10/10/21,,Williams2-74868,Williams2-74589,Cre-; Kras-; p53-; Fzd6-
+FZD4,NM_012193.4(FZD4):c.1405G>A (p.Ala469Thr),Ala,Thr,469,yes,yes,,Williams2-77995,Cre,,Kras-LSL-Flox,,175649,Lysm-Cre-KPF6-flox,53,Female,10/10/21,,Williams2-74868,Williams2-74589,Cre-; Kras-; p53-; Fzd6-
+FZD4,NM_012193.4(FZD4):c.48C>T (p.Gly16=),Gly,Gly,16,no,yes,,Williams2-77996,Cre,,Kras-LSL-Flox,,175649,Lysm-Cre-KPF6-flox,53,Female,10/10/21,,Williams2-74868,Williams2-74589,Cre-; Kras-; p53-; Fzd6-
+FZD4,NM_012193.4(FZD4):c.-130C>T,,1.297199,No,yes,no,,Williams2-78147,Cre,Tg/+,Kras2-Flox,Wildtype (+/+),176238,Lysm-cre-Fzd6-flox,48,Male,10/15/21,,Williams2-74865,Williams2-74587,Cre-Tg/+; Kras2-wt; p53-wt; Fzd6-
+FZD4,NM_012193.4(FZD4):c.-252C>T,,1.754343,No,no,yes,,Williams2-78148,Cre,Wildtype (+/+),Kras2-Flox,Wildtype (+/+),176238,Lysm-cre-Fzd6-flox,48,Male,10/15/21,,Williams2-74865,Williams2-74587,Cre-wt; Kras2-wt; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*4883G>T,,NA0.279485,No,no,yes,,Williams2-78149,Cre,Tg/+,Kras2-Flox,Flox/+,176238,Lysm-cre-Fzd6-flox,48,Male,10/15/21,,Williams2-74865,Williams2-74587,Cre-Tg/+; Kras2-fl/+; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.*4775C>T,,0.466797,No,yes,yes,,Williams2-78150,Cre,Tg/+,Kras2-Flox,Wildtype (+/+),176238,Lysm-cre-Fzd6-flox,48,Male,10/15/21,,Williams2-74865,Williams2-74587,Cre-Tg/+; Kras2-wt; p53-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*4765T>C,,0.588016,No,no,no,,Williams2-78151,Cre,Wildtype (+/+),Kras2-Flox,Flox/+,176239,Lysm-cre-Fzd6-flox,48,Male,10/15/21,,Williams2-74865,Williams2-74587,Cre-wt; Kras2-fl/+; p53-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*4518C>G,,0.062198,No,no,yes,,Williams2-78152,Cre,Wildtype (+/+),Kras2-Flox,Wildtype (+/+),176239,Lysm-cre-Fzd6-flox,48,Male,10/15/21,,Williams2-74865,Williams2-74587,Cre-wt; Kras2-wt; p53-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*4196A>G,,NA0.102127,No,yes,no,,Williams2-78153,Cre,Tg/+,Kras2-Flox,Flox/+,176240,Lysm-cre-Fzd6-flox,48,Female,10/15/21,,Williams2-74865,Williams2-74587,Cre-Tg/+; Kras2-fl/+; p53-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*4171A>T,,NA0.448695,No,yes,yes,,Williams2-78154,Cre,Wildtype (+/+),Kras2-Flox,Flox/+,176240,Lysm-cre-Fzd6-flox,48,Female,10/15/21,,Williams2-74865,Williams2-74587,Cre-wt; Kras2-fl/+; p53-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*4079G>A,,NA0.234470,No,yes,no,,Williams2-78176,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,177002,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,46,Male,10/17/21,,Williams2-76394,Williams2-76382,Cre-wt; Kras-fl/+; p53-fl/+; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.*4018T>C,,0.171511,No,no,no,,Williams2-78177,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),177002,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,46,Male,10/17/21,,Williams2-76394,Williams2-76382,Cre-wt; Kras-wt; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*3402G>T,,0.162346,No,yes,yes,,Williams2-78178,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,177002,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,46,Male,10/17/21,,Williams2-76394,Williams2-76382,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*2818G>A,,0.640678,No,no,yes,,Williams2-78179,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),177003,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,46,Female,10/17/21,,Williams2-76394,Williams2-76382,Cre-Tg/+; Kras-wt; p53-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*2542T>C,,0.541241,No,yes,no,,Williams2-78180,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),177003,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,46,Female,10/17/21,,Williams2-76394,Williams2-76382,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*2181C>T,,0.664677,No,no,yes,,Williams2-78181,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),177003,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,46,Female,10/17/21,,Williams2-76394,Williams2-76382,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*2047C>T,,0.59544,No,no,yes,,Williams2-78182,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),177003,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,46,Female,10/17/21,,Williams2-76394,Williams2-76382,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.*1932G>C,,NA0.099570,No,yes,yes,,Williams2-78183,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),177003,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,46,Female,10/17/21,,Williams2-76394,Williams2-76382,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*947G>A,,1.893182,No,no,no,,Williams2-78184,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),177004,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,46,Female,10/17/21,,Williams2-76394,Williams2-76382,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.*538G>A,,1.594382,No,no,yes,,Williams2-78185,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),177004,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,46,Female,10/17/21,,Williams2-76394,Williams2-76382,Cre-Tg/+; Kras-wt; p53-fl/+; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.*203A>G,,1.604406,No,yes,no,,Williams2-78186,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,177005,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,44,Male,10/19/21,,Williams2-76390,Williams2-76368,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.*154C>T,,0.136628,No,yes,yes,,Williams2-78187,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),177005,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,44,Male,10/19/21,,Williams2-76390,Williams2-76368,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*6G>A,,0.260887,No,yes,no,,Williams2-78188,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),177005,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,44,Male,10/19/21,,Williams2-76390,Williams2-76368,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.1541C>T (p.Ser514Phe),Ser,Phe,514,no,no,,Williams2-78189,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,177005,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,44,Male,10/19/21,,Williams2-76390,Williams2-76368,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.-255G>T,,1.562684,No,yes,yes,,Williams2-78190,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,177006,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,44,Male,10/19/21,,Williams2-76390,Williams2-76368,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.676T>C (p.Trp226Arg),Trp,Arg,226,no,yes,,Williams2-78191,Cre,Tg/+,Kras-LSL-Flox,Flox/+,177006,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,44,Male,10/19/21,,Williams2-76390,Williams2-76368,Cre-Tg/+; Kras-fl/+; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.611G>A (p.Cys204Tyr),Cys,Tyr,204,yes,no,,Williams2-78192,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,177006,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,44,Male,10/19/21,,Williams2-76390,Williams2-76368,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.1513C>T (p.Gln505Ter),Gln,Ter,505,no,yes,,Williams2-78193,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,177007,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,44,Female,10/19/21,,Williams2-76390,Williams2-76368,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.1009C>A (p.His337Asn),His,Asn,337,no,yes,,Williams2-78194,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,177008,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,43,Male,10/20/21,,Williams2-76392,Williams2-76396,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.666G>A (p.Trp222Ter),Trp,Ter,222,yes,yes,,Williams2-78195,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,177008,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,43,Male,10/20/21,,Williams2-76392,Williams2-76396,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.777T>C (p.Ser259=),Ser,Ser,259,no,no,,Williams2-78196,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),177008,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,43,Male,10/20/21,,Williams2-76392,Williams2-76396,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.461A>G (p.His154Arg),His,Arg,154,no,yes,,Williams2-78197,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,177008,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,43,Male,10/20/21,,Williams2-76392,Williams2-76396,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.349T>C (p.Cys117Arg),Cys,Arg,117,yes,no,,Williams2-78198,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),177009,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,43,Male,10/20/21,,Williams2-76392,Williams2-76396,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.1487G>A (p.Trp496Ter),Trp,Ter,496,yes,yes,,Williams2-78199,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,177010,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,43,Female,10/20/21,,Williams2-76392,Williams2-76396,Cre-wt; Kras-fl/+; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.1128G>T (p.Leu376Phe),Leu,Phe,376,yes,no,,Williams2-78200,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),177010,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,43,Female,10/20/21,,Williams2-76392,Williams2-76396,Cre-wt; Kras-wt; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.829C>T (p.Arg277Trp),Arg,Trp,277,no,no,,Williams2-78201,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),177010,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,43,Female,10/20/21,,Williams2-76392,Williams2-76396,Cre-wt; Kras-wt; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.617A>G (p.Tyr206Cys),Tyr,Cys,206,yes,yes,,Williams2-78372,Cre,Tg/+,Kras-LSL-Flox,Flox/+,177590,Lysm-Cre-KPF6-flox,32,Male,10/31/21,,Williams2-74064,Williams2-74586,Cre-Tg/+; Kras-fl/+; p53-fl/+; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.457G>A (p.Asp153Asn),Asp,Asn,153,no,yes,,Williams2-78373,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),177590,Lysm-Cre-KPF6-flox,32,Male,10/31/21,,Williams2-74064,Williams2-74586,Cre-wt; Kras-wt; p53-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.338C>G (p.Pro113Arg),Pro,Arg,113,yes,no,,Williams2-78374,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,177590,Lysm-Cre-KPF6-flox,32,Male,10/31/21,,Williams2-74064,Williams2-74586,Cre-wt; Kras-fl/+; p53-wt; Fzd6-
+FZD4,NM_012193.4(FZD4):c.241A>G (p.Thr81Ala),Thr,Ala,81,no,yes,,Williams2-78375,Cre,Tg/+,Kras-LSL-Flox,Flox/+,177591,Lysm-Cre-KPF6-flox,32,Male,10/31/21,,Williams2-74064,Williams2-74586,Cre-Tg/+; Kras-fl/+; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.76C>A (p.Gln26Lys),Gln,Lys,26,no,yes,,Williams2-78376,Cre,Tg/+,Kras-LSL-Flox,Flox/+,177591,Lysm-Cre-KPF6-flox,32,Male,10/31/21,,Williams2-74064,Williams2-74586,Cre-Tg/+; Kras-fl/+; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.700A>G (p.Thr234Ala),Thr,Ala,234,yes,yes,,Williams2-78377,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,177591,Lysm-Cre-KPF6-flox,32,Male,10/31/21,,Williams2-74064,Williams2-74586,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*5256G>A,,0.238511,No,no,no,,Williams2-78378,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,177592,Lysm-Cre-KPF6-flox,32,Male,10/31/21,,Williams2-74064,Williams2-74586,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*5168C>G,,NA0.332465,No,no,yes,,Williams2-78379,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,177592,Lysm-Cre-KPF6-flox,32,Male,10/31/21,,Williams2-74064,Williams2-74586,Cre-wt; Kras-fl/+; p53-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*4756G>C,,0.686682,No,yes,no,,Williams2-78380,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),177592,Lysm-Cre-KPF6-flox,32,Male,10/31/21,,Williams2-74064,Williams2-74586,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*4386T>G,,0.524533,No,yes,yes,,Williams2-78381,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),177593,Lysm-Cre-KPF6-flox,32,Female,10/31/21,,Williams2-74064,Williams2-74586,Cre-wt; Kras-wt; p53-fl/+; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*3974C>T,,NA0.531717,No,yes,no,,Williams2-78382,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,177593,Lysm-Cre-KPF6-flox,32,Female,10/31/21,,Williams2-74064,Williams2-74586,Cre-wt; Kras-fl/+; p53-fl/+; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.*3953G>C,,NA0.296367,No,no,no,,Williams2-78383,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),177593,Lysm-Cre-KPF6-flox,32,Female,10/31/21,,Williams2-74064,Williams2-74586,Cre-wt; Kras-wt; p53-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*3775C>T,,0.021796,No,yes,yes,,Williams2-78442,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),178121,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,30,Male,11/2/21,,Williams2-76614,Williams2-76397,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*3686C>G,,0.027751,No,no,yes,,Williams2-78443,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),178122,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,30,Female,11/2/21,,Williams2-76614,Williams2-76397,Cre-wt; Kras-wt; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*3639A>G,,0.119645,No,yes,no,,Williams2-78444,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),178122,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,30,Female,11/2/21,,Williams2-76614,Williams2-76397,Cre-wt; Kras-wt; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*3618G>A,,0.222018,No,no,yes,,Williams2-78445,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),178122,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,30,Female,11/2/21,,Williams2-76614,Williams2-76397,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*3433T>G,,0.433033,No,no,yes,,Williams2-78446,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),178122,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,30,Female,11/2/21,,Williams2-76614,Williams2-76397,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*3052C>T,,0.00148,No,yes,yes,,Williams2-78447,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),178123,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,30,Female,11/2/21,,Williams2-76614,Williams2-76397,Cre-wt; Kras-wt; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*2960T>C,,0.11429,No,no,no,,Williams2-78448,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),178123,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,30,Female,11/2/21,,Williams2-76614,Williams2-76397,Cre-wt; Kras-wt; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*2182G>A,,0.879352,No,no,yes,,Williams2-78449,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),178123,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,30,Female,11/2/21,,Williams2-76614,Williams2-76397,Cre-wt; Kras-wt; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*2091A>G,,0.936194,No,yes,no,,Williams2-78384,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,177594,Lysm-Cre-KPF6-flox,30,Male,11/2/21,,Williams2-74868,Williams2-74589,Cre-wt; Kras-fl/+; p53-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*2087C>T,,0.958819,No,yes,yes,,Williams2-78385,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),177594,Lysm-Cre-KPF6-flox,30,Male,11/2/21,,Williams2-74868,Williams2-74589,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*2051G>A,,1.668644,No,yes,no,,Williams2-78386,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),177594,Lysm-Cre-KPF6-flox,30,Male,11/2/21,,Williams2-74868,Williams2-74589,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*1459A>G,,1.443007,No,no,no,,Williams2-78387,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),177595,Lysm-Cre-KPF6-flox,30,Female,11/2/21,,Williams2-74868,Williams2-74589,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*1397A>G,,1.297052,No,yes,yes,,Williams2-78388,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,177595,Lysm-Cre-KPF6-flox,30,Female,11/2/21,,Williams2-74868,Williams2-74589,Cre-wt; Kras-fl/+; p53-fl/+; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.*1252C>T,,1.349016,No,no,yes,,Williams2-78389,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),177595,Lysm-Cre-KPF6-flox,30,Female,11/2/21,,Williams2-74868,Williams2-74589,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.*798G>C,,0.964177,No,yes,no,,Williams2-78390,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),177595,Lysm-Cre-KPF6-flox,30,Female,11/2/21,,Williams2-74868,Williams2-74589,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*701C>A,,0.335235,No,no,yes,,Williams2-78391,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),177595,Lysm-Cre-KPF6-flox,30,Female,11/2/21,,Williams2-74868,Williams2-74589,Cre-Tg/+; Kras-wt; p53-fl/+; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*522C>G,,1.091749,No,no,yes,,Williams2-78392,Cre,,Kras-LSL-Flox,,177596,Lysm-Cre-KPF6-flox,30,Female,11/2/21,,Williams2-74868,Williams2-74589,Cre-; Kras-; p53-; Fzd6-
+FZD4,NM_012193.4(FZD4):c.*461G>A,,0.853371,No,yes,yes,,Williams2-78393,Cre,,Kras-LSL-Flox,,177596,Lysm-Cre-KPF6-flox,30,Female,11/2/21,,Williams2-74868,Williams2-74589,Cre-; Kras-; p53-; Fzd6-
+FZD4,NM_012193.4(FZD4):c.*312C>T,,1.010875,No,no,no,,Williams2-78395,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),177620,Lysm-Cre-KPF6-flox,28,Female,11/4/21,,Williams2-76277,Williams2-74587,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.*173T>G,,1.133727,No,no,yes,,Williams2-78430,Cre,Tg/+,Kras-LSL-Flox,Flox/+,178091,Lysm-Cre-KPF6-flox,28,Male,11/4/21,,Williams2-76277,Williams2-74587,Cre-Tg/+; Kras-fl/+; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.*128G>A,,NA0.194083,No,yes,no,,Williams2-78431,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),178092,Lysm-Cre-KPF6-flox,28,Female,11/4/21,,Williams2-76277,Williams2-74587,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.379C>T (p.Arg127Cys),Arg,Cys,127,yes,yes,,Williams2-78432,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),178092,Lysm-Cre-KPF6-flox,28,Female,11/4/21,,Williams2-76277,Williams2-74587,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.84G>C (p.Leu28=),Leu,Leu,28,yes,no,,Williams2-78433,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),178092,Lysm-Cre-KPF6-flox,28,Female,11/4/21,,Williams2-76277,Williams2-74587,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.18A>C (p.Ala6=),Ala,Ala,6,no,no,,Williams2-78434,Cre,Tg/+,Kras-LSL-Flox,Flox/+,178092,Lysm-Cre-KPF6-flox,28,Female,11/4/21,,Williams2-76277,Williams2-74587,Cre-Tg/+; Kras-fl/+; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.-250G>A,,2.005444,No,yes,yes,,Williams2-78435,Cre,Tg/+,Kras-LSL-Flox,Flox/+,178093,Lysm-cre-Fzd6-flox,25,Male,11/7/21,,Williams2-74865,Williams2-74587,Cre-Tg/+; Kras-fl/+; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.964A>T (p.Ile322Phe),Ile,Phe,322,no,yes,,Williams2-78436,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,178093,Lysm-cre-Fzd6-flox,25,Male,11/7/21,,Williams2-74865,Williams2-74587,Cre-wt; Kras-fl/+; p53-fl/+; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.1477A>G (p.Met493Val),Met,Val,493,yes,no,,Williams2-78437,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),178093,Lysm-cre-Fzd6-flox,25,Male,11/7/21,,Williams2-74865,Williams2-74587,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.718A>G (p.Thr240Ala),Thr,Ala,240,no,yes,,Williams2-78438,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),178094,Lysm-cre-Fzd6-flox,25,Male,11/7/21,,Williams2-74865,Williams2-74587,Cre-wt; Kras-wt; p53-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.1567G>C (p.Gly523Arg),Gly,Arg,523,no,yes,,Williams2-78439,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),178094,Lysm-cre-Fzd6-flox,25,Male,11/7/21,,Williams2-74865,Williams2-74587,Cre-Tg/+; Kras-wt; p53-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.559A>G (p.Asn187Asp),Asn,Asp,187,yes,yes,,Williams2-78440,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),178095,Lysm-cre-Fzd6-flox,25,Female,11/7/21,,Williams2-74865,Williams2-74587,Cre-Tg/+; Kras-wt; p53-fl/+; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.678G>A (p.Trp226Ter),Trp,Ter,226,no,no,,Williams2-78441,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,178095,Lysm-cre-Fzd6-flox,25,Female,11/7/21,,Williams2-74865,Williams2-74587,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.511C>T (p.His171Tyr),His,Tyr,171,no,yes,,Williams2-78394,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),177619,Lysm-Cre-KPF6-flox,24,Female,11/8/21,,Williams2-77170,Williams2-74586,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.380G>A (p.Arg127His),Arg,His,127,yes,no,,Williams2-78553,Cre,Tg/+,Kras-LSL-Flox,Flox/+,178235,Lysm-Cre-KPF6-flox,24,Male,11/8/21,,Williams2-77170,Williams2-74586,Cre-Tg/+; Kras-fl/+; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.352G>A (p.Gly118Ser),Gly,Ser,118,yes,yes,,Williams2-78554,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,178235,Lysm-Cre-KPF6-flox,24,Male,11/8/21,,Williams2-77170,Williams2-74586,Cre-wt; Kras-fl/+; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.1108G>A (p.Ala370Thr),Ala,Thr,370,yes,no,,Williams2-78555,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),178235,Lysm-Cre-KPF6-flox,24,Male,11/8/21,,Williams2-77170,Williams2-74586,Cre-wt; Kras-wt; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.1057G>C (p.Ala353Pro),Ala,Pro,353,no,no,,Williams2-78556,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),178235,Lysm-Cre-KPF6-flox,24,Male,11/8/21,,Williams2-77170,Williams2-74586,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.811G>T (p.Val271Phe),Val,Phe,271,yes,yes,,Williams2-78557,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),178236,Lysm-Cre-KPF6-flox,24,Female,11/8/21,,Williams2-77170,Williams2-74586,Cre-wt; Kras-wt; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.515A>G (p.Lys172Arg),Lys,Arg,172,no,yes,,Williams2-78558,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,178236,Lysm-Cre-KPF6-flox,24,Female,11/8/21,,Williams2-77170,Williams2-74586,Cre-wt; Kras-fl/+; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.391G>A (p.Val131Ile),Val,Ile,131,yes,no,,Williams2-78559,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),178236,Lysm-Cre-KPF6-flox,24,Female,11/8/21,,Williams2-77170,Williams2-74586,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.149T>G (p.Ile50Ser),Ile,Ser,50,no,yes,,Williams2-78641,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),178510,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,21,Male,11/11/21,,Williams2-76392,Williams2-76396,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.9G>A (p.Trp3Ter),Trp,Ter,3,no,yes,,Williams2-78642,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),178510,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,21,Male,11/11/21,,Williams2-76392,Williams2-76396,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.1468A>T (p.Thr490Ser),Thr,Ser,490,yes,yes,,Williams2-78643,Cre,Tg/+,Kras-LSL-Flox,Flox/+,178511,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,21,Female,11/11/21,,Williams2-76392,Williams2-76396,Cre-Tg/+; Kras-fl/+; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.1523C>T (p.Ser508Phe),Ser,Phe,508,no,no,,Williams2-78644,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),178511,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,21,Female,11/11/21,,Williams2-76392,Williams2-76396,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.1302G>C (p.Met434Ile),Met,Ile,434,no,yes,,Williams2-78645,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,178511,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,21,Female,11/11/21,,Williams2-76392,Williams2-76396,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.716T>C (p.Leu239Pro),Leu,Pro,239,yes,no,,Williams2-78646,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),178511,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,21,Female,11/11/21,,Williams2-76392,Williams2-76396,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.638G>A (p.Arg213His),Arg,His,213,yes,yes,,Williams2-78647,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),178511,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,21,Female,11/11/21,,Williams2-76392,Williams2-76396,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.355G>A (p.Gly119Ser),Gly,Ser,119,yes,no,,Williams2-78648,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),178512,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,18,Male,11/14/21,,Williams2-76394,Williams2-76382,Cre-Tg/+; Kras-wt; p53-fl/+; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.1508C>T (p.Thr503Met),Thr,Met,503,no,no,,Williams2-78767,Cre,Tg/+,Kras-LSL-Flox,Flox/+,179038,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,18,Male,11/19/21,,Williams2-76390,Williams2-76368,Cre-Tg/+; Kras-fl/+; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.1171G>A (p.Val391Met),Val,Met,391,yes,yes,,Williams2-78768,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,179038,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,18,Male,11/19/21,,Williams2-76390,Williams2-76368,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.1133A>G (p.Tyr378Cys),Tyr,Cys,378,no,yes,,Williams2-78769,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,179038,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,18,Male,11/19/21,,Williams2-76390,Williams2-76368,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.1078A>G (p.Ile360Val),Ile,Val,360,yes,no,,Williams2-78770,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),179038,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,18,Male,11/19/21,,Williams2-76390,Williams2-76368,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.550G>C (p.Val184Leu),Val,Leu,184,no,yes,,Williams2-78771,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),179039,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,18,Male,11/19/21,,Williams2-76390,Williams2-76368,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.524T>G (p.Ile175Ser),Ile,Ser,175,no,yes,,Williams2-78772,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),179039,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,18,Male,11/19/21,,Williams2-76390,Williams2-76368,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.359T>A (p.Met120Lys),Met,Lys,120,yes,yes,,Williams2-78773,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),179039,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,18,Male,11/19/21,,Williams2-76390,Williams2-76368,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.1594G>A (p.Gly532Ser),Gly,Ser,532,no,no,,Williams2-78774,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),179040,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,18,Female,11/19/21,,Williams2-76390,Williams2-76368,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.1443T>G (p.Ile481Met),Ile,Met,481,no,yes,,Williams2-78775,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),179040,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,18,Female,11/19/21,,Williams2-76390,Williams2-76368,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.1397G>A (p.Arg466Gln),Arg,Gln,466,yes,no,,Williams2-78776,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),179040,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,18,Female,11/19/21,,Williams2-76390,Williams2-76368,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.1382A>G (p.Asn461Ser),Asn,Ser,461,yes,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.674T>C (p.Val225Ala),Val,Ala,225,yes,no,,Williams2-78767,Cre,Tg/+,Kras-LSL-Flox,Flox/+,179038,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,39,Male,11/19/21,,Williams2-76390,Williams2-76368,Cre-Tg/+; Kras-fl/+; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.637C>T (p.Arg213Cys),Arg,Cys,213,no,no,,Williams2-78768,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,179038,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,39,Male,11/19/21,,Williams2-76390,Williams2-76368,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.1483A>G (p.Ile495Val),Ile,Val,495,yes,yes,,Williams2-78769,Cre,Wildtype (+/+),Kras-LSL-Flox,Flox/+,179038,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,39,Male,11/19/21,,Williams2-76390,Williams2-76368,Cre-wt; Kras-fl/+; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.1268A>G (p.Asp423Gly),Asp,Gly,423,no,yes,,Williams2-78770,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),179038,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,39,Male,11/19/21,,Williams2-76390,Williams2-76368,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.1202T>C (p.Ile401Thr),Ile,Thr,401,yes,no,,Williams2-78771,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),179039,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,39,Male,11/19/21,,Williams2-76390,Williams2-76368,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/fl
+FZD4,NM_012193.4(FZD4):c.758G>A (p.Arg253His),Arg,His,253,no,yes,,Williams2-78772,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),179039,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,39,Male,11/19/21,,Williams2-76390,Williams2-76368,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.330C>G (p.Ile110Met),Ile,Met,110,no,yes,,Williams2-78773,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),179039,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,39,Male,11/19/21,,Williams2-76390,Williams2-76368,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.69G>T (p.Leu23Phe),Leu,Phe,23,yes,yes,,Williams2-78774,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),179040,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,39,Female,11/19/21,,Williams2-76390,Williams2-76368,Cre-wt; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.47G>A (p.Gly16Asp),Gly,Asp,16,no,no,,Williams2-78775,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),179040,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,39,Female,11/19/21,,Williams2-76390,Williams2-76368,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.32C>A (p.Pro11Gln),Pro,Gln,11,no,yes,,Williams2-78776,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),179040,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,39,Female,11/19/21,,Williams2-76390,Williams2-76368,Cre-Tg/+; Kras-wt; p53-wt; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.757C>T (p.Arg253Cys),Arg,Cys,253,yes,no,,Williams2-78818,Cre,Tg/+,Kras-LSL-Flox,Wildtype (+/+),179451,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,33,Male,11/25/21,,Williams2-76614,Williams2-76397,Cre-Tg/+; Kras-wt; p53-; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.118G>T (p.Glu40Ter),Glu,Ter,40,yes,yes,,Williams2-78819,Cre,Tg/+,Kras-LSL-Flox,Flox/+,179451,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,33,Male,11/25/21,,Williams2-76614,Williams2-76397,Cre-Tg/+; Kras-fl/+; p53-; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.1590A>G (p.Gly530=),Gly,Gly,530,yes,no,,Williams2-78820,Cre,Tg/+,Kras-LSL-Flox,Flox/+,179452,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,33,Female,11/25/21,,Williams2-76614,Williams2-76397,Cre-Tg/+; Kras-fl/+; p53-; Fzd6-fl/+
+FZD4,NM_012193.4(FZD4):c.1392T>G (p.Leu464=),Leu,Leu,464,no,no,,Williams2-78821,Cre,Wildtype (+/+),Kras-LSL-Flox,Wildtype (+/+),179452,Aid-cre-Kras-G12D-Flox-p53-R172H-Flox-Fzd6-Flox,33,Female,11/25/21,,Williams2-76614,Williams2-76397,Cre-wt; Kras-wt; p53-; Fzd6-wt
+FZD4,NM_012193.4(FZD4):c.1152C>T (p.Leu384=),Leu,Leu,384,yes,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.834A>G (p.Glu278=),Glu,Glu,278,no,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.285+7G>A,,1.259931,No,yes,no,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.252G>A (p.Pro84=),Pro,Pro,84,no,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.1506C>T (p.His502=),His,His,502,no,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.1494C>T (p.Ala498=),Ala,Ala,498,yes,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.1453T>C (p.Leu485=),Leu,Leu,485,no,no,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.1347G>A (p.Thr449=),Thr,Thr,449,no,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.1314G>A (p.Gly438=),Gly,Gly,438,yes,no,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.1167G>C (p.Gly389=),Gly,Gly,389,yes,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.1149T>C (p.Asn383=),Asn,Asn,383,yes,no,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.348A>C (p.Pro116=),Pro,Pro,116,no,no,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.312A>C (p.Pro104=),Pro,Pro,104,yes,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.1170C>T (p.Phe390=),Phe,Phe,390,no,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.750C>T (p.Tyr250=),Tyr,Tyr,250,yes,no,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.715C>T (p.Leu239=),Leu,Leu,239,no,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.546C>T (p.His182=),His,His,182,no,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.351C>T (p.Cys117=),Cys,Cys,117,yes,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.168C>T (p.Leu56=),Leu,Leu,56,no,no,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.1329G>C (p.Leu443=),Leu,Leu,443,no,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.1158C>T (p.Ala386=),Ala,Ala,386,yes,no,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.999C>G (p.Leu333=),Leu,Leu,333,yes,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.1551A>G (p.Val517=),Val,Val,517,yes,no,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.576C>T (p.Ile192=),Ile,Ile,192,no,no,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.1479_1484del (p.Met493_Trp494del),Met,_Trp494del,,yes,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.1501_1502del (p.Leu501fs),Leu,fs,501,no,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.1282_1285del (p.Asp428fs),Asp,fs,428,yes,no,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.288del (p.Phe97fs),Phe,fs,97,no,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.*5282_*5283del,,,,no,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.*5250del,,NA0.267790,No,yes,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.*3909_*3912TTTG[9],,,,no,no,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.*3909_*3912TTTG[6],,,,no,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.*2956_*2960delinsAGTTAAAAGC,,,,yes,no,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.*2747dup,,0.040637,No,yes,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.*3909_*3912TTTG[4],,,,yes,no,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.*3909_*3912TTTG[7],,,,no,no,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.*3909_*3912TTTG[5],,,,yes,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.*3060del,,0.162049,No,no,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.40_49del (p.Pro14fs),Pro,fs,14,yes,no,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.1218TGC[1] (p.Ala408del),Ala,del,408,no,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.614del (p.Gly205fs),Gly,fs,205,no,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.1507_1508del (p.Thr503fs),Thr,fs,503,yes,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.534_580dup (p.Val194fs),Val,fs,194,no,no,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.615del (p.Tyr206fs),Tyr,fs,206,no,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.124_285+165del,,,,yes,no,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.661dup (p.Ile221fs),Ile,fs,221,yes,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.1561_1562del (p.Lys521fs),Lys,fs,521,yes,no,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.175_177del (p.Asn59del),Asn,del,59,no,no,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.81GCT[2] (p.Leu31del),Leu,del,31,yes,yes,,,,,,,,,,,,,,,
+FZD4,NM_012193.4(FZD4):c.1510_1528del (p.Trp504fs),Trp,fs,504,no,yes,,,,,,,,,,,,,,,
+FZD5,NM_003468.4(FZD5):c.1181_1246del (p.Asn394_Gly415del),Asn,_Gly415del,,yes,no,,,,,,,,,,,,,,,
+FZD5,NM_003468.4(FZD5):c.1081_1082insGAA (p.His361delinsArgAsn),His,delinsArgAsn,361,no,yes,,,,,,,,,,,,,,,
+FZD5,NM_003468.4(FZD5):c.820del (p.Leu274fs),Leu,fs,274,no,yes,,,,,,,,,,,,,,,
+FZD6,NM_003506.4(FZD6):c.1750G>T (p.Glu584Ter),Glu,Ter,584,yes,yes,,,,,,,,,,,,,,,
+FZD6,NM_003506.4(FZD6):c.1531C>T (p.Arg511Cys),Arg,Cys,511,no,no,,,,,,,,,,,,,,,
+FZD6,NM_003506.4(FZD6):c.869A>G (p.Tyr290Cys),Tyr,Cys,290,no,yes,,,,,,,,,,,,,,,
+FZD6,NM_003506.4(FZD6):c.346C>T (p.Arg116Ter),Arg,Ter,116,yes,no,,,,,,,,,,,,,,,
+FZD6,NM_003506.4(FZD6):c.286C>T (p.Arg96Cys),Arg,Cys,96,yes,yes,,,,,,,,,,,,,,,
+FZD6,NM_003506.4(FZD6):c.1214G>A (p.Arg405Gln),Arg,Gln,405,yes,no,,,,,,,,,,,,,,,
+FZD6,NM_003506.4(FZD6):c.1525C>T (p.Arg509Ter),Arg,Ter,509,no,no,,,,,,,,,,,,,,,
+FZD6,NM_003506.4(FZD6):c.1312G>A (p.Glu438Lys),Glu,Lys,438,yes,yes,,,,,,,,,,,,,,,
+FZD6,NM_003506.4(FZD6):c.1393-2A>G,,5.343076,No,no,yes,,,,,,,,,,,,,,,
+FZD6,NC_000008.10:g.104306192_104334440del28249,,,,yes,no,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.1831C>T (p.Arg611Cys),Arg,Cys,611,no,yes,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.1298A>G (p.Asn433Ser),Asn,Ser,433,no,yes,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.1418G>A (p.Arg473Gln),Arg,Gln,473,yes,yes,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.1079G>A (p.Arg360His),Arg,His,360,no,no,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.3241C>G (p.Pro1081Ala),Pro,Ala,1081,no,yes,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.56C>T (p.Ala19Val),Ala,Val,19,yes,no,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.4298C>T (p.Ser1433Leu),Ser,Leu,1433,yes,yes,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.4136G>A (p.Gly1379Asp),Gly,Asp,1379,yes,no,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.4082-2A>G,,,,no,no,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.3398-2A>C,,,,yes,yes,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.3365A>C (p.Asp1122Ala),Asp,Ala,1122,no,yes,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.2995G>C (p.Gly999Arg),Gly,Arg,999,yes,no,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.2994+1G>A,,,,no,yes,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.2058C>G (p.Ile686Met),Ile,Met,686,no,yes,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.1620G>T (p.Leu540Phe),Leu,Phe,540,yes,yes,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.1609G>A (p.Gly537Arg),Gly,Arg,537,no,no,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.1406C>T (p.Pro469Leu),Pro,Leu,469,no,yes,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.1004G>T (p.Arg335Leu),Arg,Leu,335,yes,no,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.517C>G (p.Arg173Gly),Arg,Gly,173,yes,yes,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.2953C>T (p.Arg985Ter),Arg,Ter,985,yes,no,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.2994+2T>C,,,,no,no,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.3178C>T (p.Arg1060Ter),Arg,Ter,1060,yes,yes,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.3714A>G (p.Gln1238=),Gln,Gln,1238,no,yes,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.2669G>A (p.Trp890Ter),Trp,Ter,890,yes,no,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.4822C>T (p.Pro1608Ser),Pro,Ser,1608,no,yes,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.1003C>T (p.Arg335Ter),Arg,Ter,335,no,yes,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.1750C>T (p.His584Tyr),His,Tyr,584,yes,yes,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.2218C>T (p.Gln740Ter),Gln,Ter,740,no,no,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.4202G>A (p.Arg1401His),Arg,His,1401,no,yes,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.4719C>T (p.Pro1573=),Pro,Pro,1573,yes,no,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.4144G>T (p.Val1382Phe),Val,Phe,1382,yes,yes,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.4120G>A (p.Val1374Ile),Val,Ile,1374,yes,no,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.2706C>T (p.His902=),His,His,902,no,no,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.3971-5T>C,,,,yes,yes,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.3206+6T>C,,,,no,yes,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.4230T>C (p.Thr1410=),Thr,Thr,1410,yes,no,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.3192A>G (p.Val1064=),Val,Val,1064,no,yes,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.2382C>T (p.Asn794=),Asn,Asn,794,no,yes,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.752A>G (p.Asn251Ser),Asn,Ser,251,,,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.4312+10G>A,,,,,,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.2862C>T (p.Ser954=),Ser,Ser,954,,,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.3972G>A (p.Val1324=),Val,Val,1324,,,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.1791G>A (p.Gly597=),Gly,Gly,597,,,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.1118A>G (p.Tyr373Cys),Tyr,Cys,373,,,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.1243C>T (p.Arg415Ter),Arg,Ter,415,,,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.246A>T (p.Lys82Asn),Lys,Asn,82,,,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.1779dup (p.Glu594Ter),Glu,Ter,594,,,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.2224_2225dup (p.Leu742fs),Leu,fs,742,,,,,,,,,,,,,,,,,
+LRP6,GRCh38/hg38 12p13.2(chr12:12198797-12200966)x1,,,,,,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.4593del (p.Cys1532fs),Cys,fs,1532,,,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.2666_2667insCCAC (p.Trp890fs),Trp,fs,890,,,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.4450-8del,,0.606013,Yes,,,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.4361dup (p.Ser1455fs),Ser,fs,1455,,,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.3394_3395del (p.Ser1132fs),Ser,fs,1132,,,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.874_875del (p.Gly292fs),Gly,fs,292,,,,,,,,,,,,,,,,,
+LRP6,NM_002336.3(LRP6):c.4697del (p.Pro1566fs),Pro,fs,1566,,,,,,,,,,,,,,,,,
+NXN,NM_022463.5(NXN):c.625C>T (p.Arg209Ter),Arg,Ter,209,,,,,,,,,,,,,,,,,
+NXN,NM_022463.5(NXN):c.817C>T (p.Gln273Ter),Gln,Ter,273,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.178G>A (p.Gly60Arg),Gly,Arg,60,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.370C>T (p.Arg124Ter),Arg,Ter,124,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.222G>A (p.Trp74Ter),Trp,Ter,74,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.1093C>T (p.Arg365Trp),Arg,Trp,365,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.1158G>A (p.Ser386=),Ser,Ser,386,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.288C>T (p.Gly96=),Gly,Gly,96,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.633C>T (p.Gly211=),Gly,Gly,211,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.268C>T (p.Arg90Ter),Arg,Ter,90,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.1250T>C (p.Phe417Ser),Phe,Ser,417,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.565T>C (p.Trp189Arg),Trp,Arg,189,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.720-2A>C,,5.316455,No,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.1133C>T (p.Ser378Leu),Ser,Leu,378,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.1291G>C (p.Gly431Arg),Gly,Arg,431,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.787G>A (p.Glu263Lys),Glu,Lys,263,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.1023+2T>A,4.897968,No,,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.452C>T (p.Ser151Leu),Ser,Leu,151,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.49T>C (p.Cys17Arg),Cys,Arg,17,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.930T>G (p.Ser310=),Ser,Ser,310,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.24A>G (p.Glu8=),Glu,Glu,8,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.1274C>T (p.Thr425Ile),Thr,Ile,425,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.453G>A (p.Ser151=),Ser,Ser,151,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.1012G>A (p.Ala338Thr),Ala,Thr,338,,,,,,,,,,,,,,,,,
+PORCN,NM_203473.3(PORCN):c.395T>G (p.Met132Arg),Met,Arg,132,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.82C>T (p.Gln28Ter),Gln,Ter,28,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.794C>T (p.Thr265Met),Thr,Met,265,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.301G>A (p.Val101Ile),Val,Ile,101,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.872A>C (p.Asn291Thr),Asn,Thr,291,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.912C>T (p.Ser304=),Ser,Ser,304,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.854C>T (p.Thr285Met),Thr,Met,285,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.1011C>T (p.Ser337=),Ser,Ser,337,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.960T>C (p.Asn320=),Asn,Asn,320,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.136+7G>A,1.23858,Yes,,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.283C>T (p.Arg95Ter),Arg,Ter,95,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.329+1G>A,5.543262,No,,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.626G>C (p.Cys209Ser),Cys,Ser,209,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.884C>T (p.Pro295Leu),Pro,Leu,295,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.1094G>A (p.Arg365Gln),Arg,Gln,365,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.1001A>G (p.Tyr334Cys),Tyr,Cys,334,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.725T>A (p.Leu242Gln),Leu,Gln,242,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.964C>G (p.Leu322Val),Leu,Val,322,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.119G>T (p.Arg40Leu),Arg,Leu,40,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.1059_1071dup (p.Thr358fs),Thr,fs,358,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.250del (p.Leu84fs),Leu,fs,84,,,,,,,,,,,,,,,,,
+PORCN,GRCh38/hg38 Xp11.23(chrX:48511468-48512678)x3,,,,,,,,,,,,,,,,,,,,
+PORCN,GRCh38/hg38 Xp11.23(chrX:48511468-48512362)x2,,,,,,,,,,,,,,,,,,,,
+PORCN,GRCh37/hg19 Xp11.23(chrX:48369787-48370706)x3,,,,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.1079_1081dup (p.Val360dup),Val,dup,360,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.854_871del (p.Thr285_Leu290del),Thr,_Leu290del,,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.853_854delinsCCCCCAG (p.Thr285fs),Thr,fs,285,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.1356del (p.Cys453fs),Cys,fs,453,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.1049del (p.Val350fs),Val,fs,350,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.49_80del (p.Cys17fs),Cys,fs,17,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.1059_1071dup (p.Thr358fs),Thr,fs,358,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.250del (p.Leu84fs),Leu,fs,84,,,,,,,,,,,,,,,,,
+PORCN,GRCh38/hg38 Xp11.23(chrX:48511468-48512678)x3,,,,,,,,,,,,,,,,,,,,
+PORCN,GRCh38/hg38 Xp11.23(chrX:48511468-48512362)x2,,,,,,,,,,,,,,,,,,,,
+PORCN,GRCh37/hg19 Xp11.23(chrX:48369787-48370706)x3,,,,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.1079_1081dup (p.Val360dup),Val,dup,360,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.854_871del (p.Thr285_Leu290del),Thr,_Leu290del,,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.853_854delinsCCCCCAG (p.Thr285fs),Thr,fs,285,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.1356del (p.Cys453fs),Cys,fs,453,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.1049del (p.Val350fs),Val,fs,350,,,,,,,,,,,,,,,,,
+PORCN,NM_203475.3(PORCN):c.49_80del (p.Cys17fs),Cys,fs,17,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1504C>T (p.Gln502Ter),Gln,Ter,502,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.550C>T (p.Arg184Cys),Arg,Cys,184,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2160G>A (p.Trp720Ter),Trp,Ter,720,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.613C>T (p.Arg205Ter),Arg,Ter,205,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.355C>T (p.Arg119Ter),Arg,Ter,119,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1324C>T (p.Arg442Ter),Arg,Ter,442,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2805C>G (p.Asp935Glu),Asp,Glu,935,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2455G>A (p.Val819Ile),Val,Ile,819,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2285C>T (p.Ser762Leu),Ser,Leu,762,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2154C>T (p.Pro718=),Pro,Pro,718,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2088C>T (p.Tyr696=),Tyr,Tyr,696,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2083G>A (p.Gly695Arg),Gly,Arg,695,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1970G>A (p.Arg657His),Arg,His,657,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1959G>A (p.Leu653=),Leu,Leu,653,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1710G>A (p.Pro570=),Pro,Pro,570,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1045C>G (p.His349Asp),His,Asp,349,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.986G>A (p.Ser329Asn),Ser,Asn,329,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.733A>G (p.Thr245Ala),Thr,Ala,245,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.498T>C (p.Asp166=),Asp,Asp,166,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.98-15G>C,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.75G>A (p.Leu25=),Leu,Leu,25,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.7C>T (p.Arg3Trp),Arg,Trp,3,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.372C>T (p.Asp124=),Asp,Asp,124,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.937+10C>T,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.730C>T (p.Arg244Trp),Arg,Trp,244,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2395C>T (p.Pro799Ser),Pro,Ser,799,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*16G>A,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2080T>C (p.Cys694Arg),Cys,Arg,694,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.904C>T (p.Arg302Cys),Arg,Cys,302,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1736A>T (p.Asp579Val),Asp,Val,579,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1686C>T (p.His562=),His,His,562,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1670C>T (p.Ser557Leu),Ser,Leu,557,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1756G>A (p.Ala586Thr),Ala,Thr,586,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1589G>A (p.Arg530Gln),Arg,Gln,530,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2684A>G (p.Asp895Gly),Asp,Gly,895,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2727G>A (p.Val909=),Val,Val,909,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.568A>G (p.Thr190Ala),Thr,Ala,190,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1712A>G (p.His571Arg),His,Arg,571,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2466C>T (p.Asn822=),Asn,Asn,822,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.678C>T (p.Phe226=),Phe,Phe,226,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*927C>T,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*886G>T,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*487C>G,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*229C>T,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*135G>T,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2190C>T (p.Asn730=),Asn,Asn,730,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1491G>A (p.Pro497=),Pro,Pro,497,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1448G>A (p.Arg483Gln),Arg,Gln,483,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1234A>G (p.Ile412Val),Ile,Val,412,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1184-10T>C,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.702C>T (p.Phe234=),Phe,Phe,234,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.276C>T (p.Asn92=),Asn,Asn,92,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.-135G>C,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*766T>C,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*736A>G,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*712C>T,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*682C>G,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*558C>T,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*521G>A,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*180C>A,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1820C>T (p.Ser607Phe),Ser,Phe,607,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1642C>T (p.Pro548Ser),Pro,Ser,548,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1307C>T (p.Ala436Val),Ala,Val,436,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.864G>A (p.Ala288=),Ala,Ala,288,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.-36A>G,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.-60G>T,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*1016T>G,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*245A>G,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2649G>A (p.Met883Ile),Met,Ile,883,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2314T>A (p.Ser772Thr),Ser,Thr,772,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2212C>T (p.Arg738Cys),Arg,Cys,738,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1416G>A (p.Ala472=),Ala,Ala,472,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.935G>A (p.Arg312His),Arg,His,312,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.751C>T (p.Leu251=),Leu,Leu,251,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.744G>A (p.Pro248=),Pro,Pro,248,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.717C>T (p.Cys239=),Cys,Cys,239,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.-91G>A,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.-121A>C,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.-154G>C,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*520C>T,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2277G>A (p.Ala759=),Ala,Ala,759,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1720G>T (p.Val574Leu),Val,Leu,574,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1552C>T (p.Arg518Trp),Arg,Trp,518,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.471G>A (p.Thr157=),Thr,Thr,157,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.153C>T (p.Asp51=),Asp,Asp,51,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.-102G>T,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1583G>A (p.Arg528Gln),Arg,Gln,528,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.323G>A (p.Arg108Gln),Arg,Gln,108,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1716G>A (p.Ser572=),Ser,Ser,572,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*571G>C,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*553G>A,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*433C>T,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*398G>C,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*369G>C,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*125C>A,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*107G>C,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*106C>T,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*46C>T,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.*38G>A,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2782G>A (p.Asp928Asn),Asp,Asn,928,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2458C>G (p.Pro820Ala),Pro,Ala,820,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2382G>A (p.Pro794=),Pro,Pro,794,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2242G>T (p.Ala748Ser),Ala,Ser,748,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2208G>T (p.Arg736=),Arg,Arg,736,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2034C>T (p.Tyr678=),Tyr,Tyr,678,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1995G>C (p.Met665Ile),Met,Ile,665,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1956G>A (p.Ser652=),Ser,Ser,652,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1870T>A (p.Tyr624Asn),Tyr,Asn,624,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1644C>A (p.Pro548=),Pro,Pro,548,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1596A>G (p.Gln532=),Gln,Gln,532,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1566G>T (p.Arg522=),Arg,Arg,522,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1347C>G (p.Ser449Arg),Ser,Arg,449,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1317G>A (p.Pro439=),Pro,Pro,439,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1300G>A (p.Ala434Thr),Ala,Thr,434,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1279A>G (p.Met427Val),Met,Val,427,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1103C>G (p.Pro368Arg),Pro,Arg,368,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.989C>T (p.Thr330Ile),Thr,Ile,330,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.886G>A (p.Asp296Asn),Asp,Asn,296,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.760G>A (p.Asp254Asn),Asp,Asn,254,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.731G>A (p.Arg244Gln),Arg,Gln,244,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.722C>A (p.Ala241Glu),Ala,Glu,241,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.179A>C (p.Tyr60Ser),Tyr,Ser,60,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.155G>A (p.Gly52Asp),Gly,Asp,52,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.146G>T (p.Gly49Val),Gly,Val,49,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.-66G>T,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.-90A>G,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.-118C>T,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.938-15G>A,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2215T>C (p.Phe739Leu),Phe,Leu,739,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2207G>A (p.Arg736Gln),Arg,Gln,736,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2074C>A (p.Pro692Thr),Pro,Thr,692,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1855C>A (p.Arg619Ser),Arg,Ser,619,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1516A>T (p.Ile506Phe),Ile,Phe,506,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1189C>T (p.Arg397Ter),Arg,Ter,397,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1100A>T (p.Asn367Ile),Asn,Ile,367,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.1096C>T (p.Arg366Trp),Arg,Trp,366,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.899G>T (p.Cys300Phe),Cys,Phe,300,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.717C>A (p.Cys239Ter),Cys,Ter,239,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.623-11G>A,,,,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.248G>A (p.Cys83Tyr),Cys,Tyr,83,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.2T>G (p.Met1Arg),Met,Arg,1,,,,,,,,,,,,,,,,,
+ROR2,NM_004560.4(ROR2):c.950A>G (p.Tyr317Cys),Tyr,Cys,317,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.715G>A (p.Val239Ile),Val,Ile,239,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.821G>A (p.Arg274Gln),Arg,Gln,274,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.983T>C (p.Met328Thr),Met,Thr,328,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.523C>T (p.Arg175Trp),Arg,Trp,175,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.435T>C (p.Cys145=),Cys,Cys,145,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.542G>A (p.Arg181Gln),Arg,Gln,181,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.-226G>C,,1.173085,No,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.765C>T (p.Val255=),Val,Val,255,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.812+9C>T,NA0.255175,Yes,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*301G>C,0.676703,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*483A>G,0.251172,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*929G>A,0.700676,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*1545A>G,NA0.082987,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*2107A>G,0.67234,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*2187T>C,0.474862,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*2695C>A,NA0.107431,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*2865A>G,0.141836,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*2992G>A,NA0.063241,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3023G>T,0.098852,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3289A>G,0.258732,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3417C>T,NA0.277873,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3544C>T,NA0.075687,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*5022T>G,0.007149,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*5413A>C,NA0.003356,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*5993C>G,0.105179,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*6128T>C,NA0.345043,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.-145G>T,,0.640585,No,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.-24C>T,,0.40197,No,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.114C>T (p.Asp38=),Asp,Asp,38,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.346G>A (p.Ala116Thr),Ala,Thr,116,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*47G>T,,NA0.237803,Yes,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*300C>T,,0.676649,No,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*313A>G,0.138185,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*383C>G,1.077535,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*634T>C,,0.55958,No,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*1043A>G,NA0.208890,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*1456T>C,0.10049,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*1772A>G,0.153939,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*2099G>T,0.350703,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*2489C>T,0.39685,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*2581G>A,NA0.248775,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3336G>A,0.146965,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3598A>G,0.224235,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3666G>A,0.362052,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*4463A>G,NA0.189647,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*4840T>C,0.125675,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*5267G>T,NA0.225606,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*5444C>G,NA0.555506,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*5929G>A,0.090788,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*6084C>G,0.352837,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.-224C>A,,1.162089,No,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.1040A>C (p.Glu347Ala),Glu,Ala,347,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*340C>G,0.403305,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*416G>A,0.319236,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*505A>G,0.15808,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*694C>A,0.054311,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*758G>A,NA0.118621,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*1277C>T,0.144592,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*1483C>T,0.021234,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*1516A>C,0.056892,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*1749G>T,NA0.836169,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*1970C>A,NA0.126295,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*2043C>T,0.209885,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*2329C>T,0.79857,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*2336A>G,0.71809,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*2351T>G,0.139055,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*2542C>T,1.267557,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3123A>G,NA0.181110,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3496T>A,NA0.096896,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3720T>C,0.022424,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*4846G>C,0.125525,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*5267G>A,NA0.175882,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*5351G>A,0.065009,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*5862G>A,NA0.111063,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.-171C>A,,1.256961,No,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.-115G>C,,NA0.234565,No,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.316G>A (p.Asp106Asn),Asp,Asn,106,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.572T>C (p.Val191Ala),Val,Ala,191,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.575T>C (p.Leu192Pro),Leu,Pro,192,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.914A>T (p.His305Leu),His,Leu,305,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.1045G>A (p.Glu349Lys),Glu,Lys,349,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.1172G>T (p.Arg391Met),Arg,Met,391,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*83T>A,,NA0.192789,No,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*217C>T,,0.031917,No,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*707C>T,,0.297603,No,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*1042C>A,NA0.080166,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*1627A>G,0.381525,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*1749G>A,NA0.787518,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*6474T>G,0.20241,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*6602C>T,0.504532,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*2116A>T,1.551233,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*2460C>T,0.174742,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*2541G>A,1.100418,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*6640G>A,0.085333,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*4676C>G,NA0.342134,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*4731C>T,NA0.047747,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*5066C>G,NA0.097086,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*5132G>T,0.045848,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*5466G>A,0.022542,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*5808C>T,0.276013,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*6360C>T,0.26536,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.274A>G (p.Ile92Val),Ile,Val,92,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.323A>G (p.Lys108Arg),Lys,Arg,108,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.41C>T (p.Ser14Leu),Ser,Leu,14,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.1267A>T (p.Ile423Phe),Ile,Phe,423,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.1387T>G (p.Trp463Gly),Trp,Gly,463,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.1127A>G (p.Gln376Arg),Gln,Arg,376,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.330C>T (p.Tyr110=),Tyr,Tyr,110,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.345C>T (p.Val115=),Val,Val,115,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.774C>T (p.Thr258=),Thr,Thr,258,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.231G>A (p.Thr77=),Thr,Thr,77,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.249G>A (p.Ser83=),Ser,Ser,83,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.285C>T (p.Ile95=),Ile,Ile,95,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.306C>T (p.Ser102=),Ser,Ser,102,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.307G>A (p.Val103Met),Val,Met,103,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.397T>C (p.Leu133=),Leu,Leu,133,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.640C>T (p.Arg214Trp),Arg,Trp,214,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.714C>T (p.Ile238=),Ile,Ile,238,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.1554A>G (p.Leu518=),Leu,Leu,518,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.205-4C>T,0.596723,Yes,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.921C>T (p.Ala307=),Ala,Ala,307,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.1344C>G (p.Gly448=),Gly,Gly,448,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.248C>T (p.Ser83Leu),Ser,Leu,83,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.518G>A (p.Arg173His),Arg,His,173,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.-239G>A,,1.440681,No,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.51G>A (p.Ser17=),Ser,Ser,17,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.73G>A (p.Glu25Lys),Glu,Lys,25,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.98C>T (p.Ser33Leu),Ser,Leu,33,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.312G>C (p.Gly104=),Gly,Gly,104,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.453G>A (p.Gly151=),Gly,Gly,151,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.612C>T (p.Tyr204=),Tyr,Tyr,204,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.619C>T (p.Arg207Cys),Arg,Cys,207,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.681G>A (p.Val227=),Val,Val,227,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.759G>C (p.Gln253His),Gln,His,253,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.867C>A (p.Ile289=),Ile,Ile,289,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.868T>C (p.Tyr290His),Tyr,His,290,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.1023C>T (p.Asn341=),Asn,Asn,341,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.1050T>C (p.His350=),His,His,350,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.1201A>C (p.Met401Leu),Met,Leu,401,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.1210G>T (p.Ala404Ser),Ala,Ser,404,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.1299C>T (p.Asn433=),Asn,Asn,433,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.1491T>G (p.Ile497Met),Ile,Met,497,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.1529A>G (p.Lys510Arg),Lys,Arg,510,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*25A>T,,NA0.308771,Yes,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*229T>A,,0.928066,No,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*234A>G,0.770435,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*801A>C,NA0.009194,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*922C>T,,0.444586,No,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*1402C>G,NA0.090683,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*1492G>A,0.264593,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*1492G>T,0.213795,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*1638A>G,0.318114,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*1652C>T,0.237778,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*1748C>T,0.112886,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*2009C>T,0.203307,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*2344A>C,1.071285,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*2504A>G,NA0.173169,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*2592T>C,NA0.059794,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*2708G>A,0.007916,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*2917G>A,NA0.154269,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*2961T>G,0.099727,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3049G>C,0.023672,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3150T>C,0.179609,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3267C>T,0.175103,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3273A>G,0.107305,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3290A>G,0.097238,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3409T>C,0.27492,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3559G>A,NA0.007287,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3608C>T,0.104901,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3653C>T,0.003161,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3671T>C,0.33713,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3708C>T,0.061501,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3742A>T,0.15977,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3844A>G,0.15947,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*4041T>C,0.754236,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*4209A>G,0.058881,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*4254A>G,0.192534,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*4272T>G,NA0.022957,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*4347C>T,0.046902,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*4788C>G,NA0.451531,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*4800C>A,NA0.034988,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*5008T>A,0.367343,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*5036G>A,NA0.057345,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*6681A>G,0.192824,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*6687A>G,0.134982,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*6794C>A,0.884025,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*6837A>G,0.370441,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.635G>A (p.Arg212Gln),Arg,Gln,212,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*1183del,0.145783,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*4089del,0.08738,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3407dup,NA0.086457,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*5441_*5442TC[3],,,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*5639_*5640del,,,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.-247_-245CGG[6],,,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*89_*91TTC[2],,,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*932dup,0.561812,No,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.*3762_*3765CAAA[2],,,,,,,,,,,,,,,,,,,,
+VANGL1,NM_138959.3(VANGL1):c.155_156del (p.Thr52fs),Thr,fs,52,,,,,,,,,,,,,,,,,
+VANGL1,GRCh37/hg19 1p13.1(chr1:116226658-116232765)x1,,,,,,,,,,,,,,,,,,,,
+VANGL1,GRCh37/hg19 1p13.1(chr1:116227664-116232765)x1,,,,,,,,,,,,,,,,,,,,
+VANGL1,GRCh37/hg19 1p13.1(chr1:116228152-116231289)x1,,,,,,,,,,,,,,,,,,,,
+VANGL1,GRCh37/hg19 1p13.1(chr1:116229678-116232765)x1,,,,,,,,,,,,,,,,,,,,
+VANGL1,GRCh37/hg19 1p13.1(chr1:116230000-116234313)x0,,,,,,,,,,,,,,,,,,,,
+VANGL2,NM_020335.3(VANGL2):c.1057C>T (p.Arg353Cys),Arg,Cys,353,,,,,,,,,,,,,,,,,
+VANGL2,NM_020335.3(VANGL2):c.1310T>C (p.Phe437Ser),Phe,Ser,437,,,,,,,,,,,,,,,,,
+VANGL2,NM_020335.3(VANGL2):c.971G>A (p.Arg324Gln),Arg,Gln,324,,,,,,,,,,,,,,,,,
+VANGL2,NM_020335.3(VANGL2):c.801-5C>G,0.971308,No,,,,,,,,,,,,,,,,,,
+VANGL2,NM_020335.3(VANGL2):c.1242C>T (p.Tyr414=),Tyr,Tyr,414,,,,,,,,,,,,,,,,,
+VANGL2,NM_020335.3(VANGL2):c.91C>T (p.Arg31Cys),Arg,Cys,31,,,,,,,,,,,,,,,,,
+VANGL2,NM_020335.3(VANGL2):c.1005C>T (p.Asp335=),Asp,Asp,335,,,,,,,,,,,,,,,,,
+VANGL2,NM_020335.3(VANGL2):c.1328C>T (p.Ala443Val),Ala,Val,443,,,,,,,,,,,,,,,,,
+WLS,NM_024911.7(WLS):c.1606C>T (p.Arg536Cys),Arg,Cys,536,,,,,,,,,,,,,,,,,
+WLS,NM_024911.7(WLS):c.1592T>C (p.Ile531Thr),Ile,Thr,531,,,,,,,,,,,,,,,,,
+WLS,NM_024911.7(WLS):c.1433A>G (p.Tyr478Cys),Tyr,Cys,478,,,,,,,,,,,,,,,,,
+WLS,NM_024911.7(WLS):c.1175A>G (p.Tyr392Cys),Tyr,Cys,392,,,,,,,,,,,,,,,,,
+WNT10B,NM_003394.4(WNT10B):c.994C>T (p.Arg332Trp),Arg,Trp,332,,,,,,,,,,,,,,,,,
+WNT10B,NM_003394.4(WNT10B):c.632G>A (p.Arg211Gln),Arg,Gln,211,,,,,,,,,,,,,,,,,
+WNT10B,NM_003394.4(WNT10B):c.786G>A (p.Trp262Ter),Trp,Ter,262,,,,,,,,,,,,,,,,,
+WNT10B,NM_003394.4(WNT10B):c.1087C>G (p.Arg363Gly),Arg,Gly,363,,,,,,,,,,,,,,,,,
+WNT10B,NM_003394.4(WNT10B):c.995G>A (p.Arg332Gln),Arg,Gln,332,,,,,,,,,,,,,,,,,
+WNT10B,NM_003394.4(WNT10B):c.676C>T (p.Arg226Ter),Arg,Ter,226,,,,,,,,,,,,,,,,,
+WNT10B,NM_003394.4(WNT10B):c.338-1G>C,5.473622,No,,,,,,,,,,,,,,,,,,
+WNT10B,NM_003394.4(WNT10B):c.290T>C (p.Leu97Pro),Leu,Pro,97,,,,,,,,,,,,,,,,,
+WNT10B,NM_003394.4(WNT10B):c.949T>A (p.Phe317Ile),Phe,Ile,317,,,,,,,,,,,,,,,,,
+WNT10B,NM_003394.4(WNT10B):c.746G>T (p.Cys249Phe),Cys,Phe,249,,,,,,,,,,,,,,,,,
+WNT10B,NM_003394.4(WNT10B):c.257A>C (p.Gln86Pro),Gln,Pro,86,,,,,,,,,,,,,,,,,
+WNT10B,NM_003394.4(WNT10B):c.901C>T (p.Pro301Ser),Pro,Ser,301,,,,,,,,,,,,,,,,,
+WNT10B,NM_003394.4(WNT10B):c.337+7C>T,1.62177,Yes,,,,,,,,,,,,,,,,,,
+WNT10B,NM_003394.4(WNT10B):c.36G>A (p.Ser12=),Ser,Ser,12,,,,,,,,,,,,,,,,,
+WNT10B,NM_003394.4(WNT10B):c.498A>C (p.Ala166=),Ala,Ala,166,,,,,,,,,,,,,,,,,
+WNT10B,NM_003394.4(WNT10B):c.110C>G (p.Pro37Arg),Pro,Arg,37,,,,,,,,,,,,,,,,,
+WNT10B,NM_003394.4(WNT10B):c.1059C>T (p.His353=),His,His,353,,,,,,,,,,,,,,,,,
+WNT11,NM_004626.3(WNT11):c.947G>A (p.Arg316His),Arg,His,316,,,,,,,,,,,,,,,,,
+WNT11,NM_004626.3(WNT11):c.813G>T (p.Ser271=),Ser,Ser,271,,,,,,,,,,,,,,,,,
+WNT11,NM_004626.3(WNT11):c.813G>A (p.Ser271=),Ser,Ser,271,,,,,,,,,,,,,,,,,
+WNT11,NM_004626.3(WNT11):c.361G>A (p.Ala121Thr),Ala,Thr,121,,,,,,,,,,,,,,,,,
+WNT11,NM_004626.3(WNT11):c.633C>T (p.Cys211=),Cys,Cys,211,,,,,,,,,,,,,,,,,
+WNT11,NM_004626.3(WNT11):c.216C>T (p.Ala72=),Ala,Ala,72,,,,,,,,,,,,,,,,,
+WNT2B,NM_024494.3(WNT2B):c.313C>T (p.Arg105Ter),Arg,Ter,105,,,,,,,,,,,,,,,,,
+WNT2B,NM_024494.3(WNT2B):c.205C>T (p.Arg69Ter),Arg,Ter,69,,,,,,,,,,,,,,,,,
+WNT2B,NM_024494.3(WNT2B):c.732T>C (p.Gly244=),Gly,Gly,244,,,,,,,,,,,,,,,,,
+WNT2B,NM_024494.3(WNT2B):c.1140A>G (p.Lys380=),Lys,Lys,380,,,,,,,,,,,,,,,,,
+WNT2B,NM_024494.3(WNT2B):c.302G>A (p.Arg101Gln),Arg,Gln,101,,,,,,,,,,,,,,,,,
+WNT2B,NM_024494.3(WNT2B):c.909C>T (p.Asp303=),Asp,Asp,303,,,,,,,,,,,,,,,,,
+WNT2B,NM_024494.3(WNT2B):c.722G>A (p.Gly241Asp),Gly,Asp,241,,,,,,,,,,,,,,,,,
+WNT2B,NM_024494.3(WNT2B):c.423del (p.Phe141fs),Phe,fs,141,,,,,,,,,,,,,,,,,
+WNT3,NM_030753.5(WNT3):c.247C>T (p.Gln83Ter),Gln,Ter,83,,,,,,,,,,,,,,,,,
+WNT3,NM_030753.5(WNT3):c.638G>A (p.Gly213Asp),Gly,Asp,213,,,,,,,,,,,,,,,,,
+WNT3,NM_030753.5(WNT3):c.271T>C (p.Cys91Arg),Cys,Arg,91,,,,,,,,,,,,,,,,,
+WNT3,NM_030753.5(WNT3):c.429G>A (p.Ser143=),Ser,Ser,143,,,,,,,,,,,,,,,,,
+WNT3,NM_030753.5(WNT3):c.50C>G (p.Thr17Ser),Thr,Ser,17,,,,,,,,,,,,,,,,,
+WNT3,NM_030753.5(WNT3):c.390C>G (p.Ser130=),Ser,Ser,130,,,,,,,,,,,,,,,,,
+WNT3,NM_030753.5(WNT3):c.309C>A (p.Pro103=),Pro,Pro,103,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.544T>C (p.Cys182Arg),Cys,Arg,182,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.248G>C (p.Cys83Ser),Cys,Ser,83,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.487G>C (p.Gly163Arg),Gly,Arg,163,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.391+11A>G,,,,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.141-8C>G,,,,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.141-9C>T,,,,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.141-9C>G,,,,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.140+14A>G,,,,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.545G>C (p.Cys182Ser),Cys,Ser,182,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.257A>G (p.Tyr86Cys),Tyr,Cys,86,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.206G>A (p.Cys69Tyr),Cys,Tyr,69,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.479C>G (p.Ser160Cys),Ser,Cys,160,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.7(WNT5A):c.115G>C (p.Val39Leu),Val,Leu,39,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.7(WNT5A):c.461G>T (p.Cys154Phe),Cys,Phe,154,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.7(WNT5A):c.248G>A (p.Cys83Tyr),Cys,Tyr,83,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.7(WNT5A):c.247T>G (p.Cys83Gly),Cys,Gly,83,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.7(WNT5A):c.547G>A (p.Gly183Ser),Gly,Ser,183,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.7(WNT5A):c.206G>T (p.Cys69Phe),Cys,Phe,69,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.544T>C (p.Cys182Arg),Cys,Arg,182,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.248G>C (p.Cys83Ser),Cys,Ser,83,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.487G>C (p.Gly163Arg),Gly,Arg,163,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.405G>T (p.Thr135=),Thr,Thr,135,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.391+11A>G,0.345656,Yes,,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.141-8C>G,0.975097,Yes,,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.141-9C>T,1.052803,Yes,,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.141-9C>G,1.007618,Yes,,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.140+14A>G,0.774001,Yes,,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.545G>C (p.Cys182Ser),Cys,Ser,182,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.257A>G (p.Tyr86Cys),Tyr,Cys,86,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.206G>A (p.Cys69Tyr),Cys,Tyr,69,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.588C>T (p.Phe196=),Phe,Phe,196,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.819G>A (p.Ala273=),Ala,Ala,273,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.141-8C>T,0.80168,Yes,,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.839G>A (p.Ser280Asn),Ser,Asn,280,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.14T>C (p.Ile5Thr),Ile,Thr,5,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.807G>A (p.Lys269=),Lys,Lys,269,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.110C>G (p.Ala37Gly),Ala,Gly,37,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.1052A>T (p.Gln351Leu),Gln,Leu,351,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.479C>G (p.Ser160Cys),Ser,Cys,160,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.417C>T (p.Tyr139=),Tyr,Tyr,139,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.104C>T (p.Ser35Phe),Ser,Phe,35,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.427G>A (p.Ala143Thr),Ala,Thr,143,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.496C>T (p.Arg166Cys),Arg,Cys,166,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.779G>T (p.Arg260Leu),Arg,Leu,260,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.850T>C (p.Leu284=),Leu,Leu,284,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.502G>A (p.Ala168Thr),Ala,Thr,168,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.822G>A (p.Ala274=),Ala,Ala,274,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.291G>A (p.Ala97=),Ala,Ala,97,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.1047C>T (p.Thr349=),Thr,Thr,349,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.951G>A (p.Ser317=),Ser,Ser,317,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.4(WNT5A):c.441G>A (p.Val147=),Val,Val,147,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.7(WNT5A):c.115G>C (p.Val39Leu),Val,Leu,39,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.7(WNT5A):c.461G>T (p.Cys154Phe),Cys,Phe,154,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.7(WNT5A):c.248G>A (p.Cys83Tyr),Cys,Tyr,83,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.7(WNT5A):c.247T>G (p.Cys83Gly),Cys,Gly,83,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.7(WNT5A):c.547G>A (p.Gly183Ser),Gly,Ser,183,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.7(WNT5A):c.641C>G (p.Ala214Gly),Ala,Gly,214,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.7(WNT5A):c.1123G>A (p.Asp375Asn),Asp,Asn,375,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.7(WNT5A):c.991G>T (p.Gly331Cys),Gly,Cys,331,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.7(WNT5A):c.503C>T (p.Ala168Val),Ala,Val,168,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.7(WNT5A):c.634G>A (p.Glu212Lys),Glu,Lys,212,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.7(WNT5A):c.1005C>T (p.Cys335=),Cys,Cys,335,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.7(WNT5A):c.206G>T (p.Cys69Phe),Cys,Phe,69,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.7(WNT5A):c.303C>T (p.Ile101=),Ile,Ile,101,,,,,,,,,,,,,,,,,
+WNT5A,NM_003392.7(WNT5A):c.6+10C>T,,1.925126,Yes,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.874C>T (p.Arg292Cys),Arg,Cys,292,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.325G>A (p.Ala109Thr),Ala,Thr,109,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.610G>A (p.Gly204Ser),Gly,Ser,204,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.664C>T (p.Arg222Trp),Arg,Trp,222,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.214G>A (p.Glu72Lys),Glu,Lys,72,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.487G>A (p.Ala163Thr),Ala,Thr,163,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.861G>A (p.Val287=),Val,Val,287,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.232C>T (p.Arg78Cys),Arg,Cys,78,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.304C>T (p.Arg102Trp),Arg,Trp,102,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.75C>T (p.Gly25=),Gly,Gly,25,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.269G>A (p.Arg90His),Arg,His,90,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.399C>T (p.Cys133=),Cys,Cys,133,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.72-8C>T,,0.657281,No,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.213C>T (p.Asp71=),Asp,Asp,71,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.1028C>T (p.Thr343Met),Thr,Met,343,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.555C>T (p.Asn185=),Asn,Asn,185,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.733C>T (p.Arg245Cys),Arg,Cys,245,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.665G>A (p.Arg222Gln),Arg,Gln,222,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.681G>A (p.Val227=),Val,Val,227,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.60C>T (p.Tyr20=),Tyr,Tyr,20,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.81C>T (p.Ser27=),Ser,Ser,27,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.387C>T (p.Ser129=),Ser,Ser,129,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.171C>T (p.Asp57=),Asp,Asp,57,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.145C>A (p.Arg49=),Arg,Arg,49,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.942C>T (p.Asn314=),Asn,Asn,314,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.624G>A (p.Ser208=),Ser,Ser,208,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.259C>T (p.Leu87=),Leu,Leu,87,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.72-10C>T,1.255498,Yes,,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.571-9C>G,0.249278,Yes,,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.470G>A (p.Arg157His),Arg,His,157,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.874C>T (p.Arg292Cys),Arg,Cys,292,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.325G>A (p.Ala109Thr),Ala,Thr,109,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.610G>A (p.Gly204Ser),Gly,Ser,204,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.664C>T (p.Arg222Trp),Arg,Trp,222,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.214G>A (p.Glu72Lys),Glu,Lys,72,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.487G>A (p.Ala163Thr),Ala,Thr,163,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.861G>A (p.Val287=),Val,Val,287,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.232C>T (p.Arg78Cys),Arg,Cys,78,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.304C>T (p.Arg102Trp),Arg,Trp,102,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.75C>T (p.Gly25=),Gly,Gly,25,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.269G>A (p.Arg90His),Arg,His,90,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.399C>T (p.Cys133=),Cys,Cys,133,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.72-8C>T,,0.657281,No,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.213C>T (p.Asp71=),Asp,Asp,71,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.1028C>T (p.Thr343Met),Thr,Met,343,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.555C>T (p.Asn185=),Asn,Asn,185,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.733C>T (p.Arg245Cys),Arg,Cys,245,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.665G>A (p.Arg222Gln),Arg,Gln,222,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.681G>A (p.Val227=),Val,Val,227,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.60C>T (p.Tyr20=),Tyr,Tyr,20,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.81C>T (p.Ser27=),Ser,Ser,27,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.387C>T (p.Ser129=),Ser,Ser,129,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.171C>T (p.Asp57=),Asp,Asp,57,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.145C>A (p.Arg49=),Arg,Arg,49,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.942C>T (p.Asn314=),Asn,Asn,314,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.624G>A (p.Ser208=),Ser,Ser,208,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.259C>T (p.Leu87=),Leu,Leu,87,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.72-10C>T,1.255498,Yes,,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.571-9C>G,0.249278,Yes,,,,,,,,,,,,,,,,,,
+WNT7A,NM_004625.4(WNT7A):c.470G>A (p.Arg157His),Arg,His,157,,,,,,,,,,,,,,,,,
+WNT7B,NM_058238.3(WNT7B):c.739C>T (p.Arg247Trp),Arg,Trp,247,,,,,,,,,,,,,,,,,
+WNT7B,NM_058238.3(WNT7B):c.292C>T (p.Arg98Ter),Arg,Ter,98,,,,,,,,,,,,,,,,,
+WNT7B,NM_058238.3(WNT7B):c.750C>A (p.Thr250=),Thr,Thr,250,,,,,,,,,,,,,,,,,
+WNT7B,NM_058238.3(WNT7B):c.903G>A (p.Ala301=),Ala,Ala,301,,,,,,,,,,,,,,,,,
+WNT7B,NM_058238.3(WNT7B):c.87G>T (p.Val29=),Val,Val,29,,,,,,,,,,,,,,,,,
+GPC4,NM_001448.3(GPC4):c.1235G>A (p.Arg412Lys),Arg,Lys,412,,,,,,,,,,,,,,,,,
+GPC4,NM_001448.3(GPC4):c.1463A>G (p.Asp488Gly),Asp,Gly,488,,,,,,,,,,,,,,,,,
+GPC4,NM_001448.3(GPC4):c.1516C>T (p.Gln506Ter),Gln,Ter,506,,,,,,,,,,,,,,,,,
+GPC4,NM_001448.3(GPC4):c.1486G>T (p.Glu496Ter),Glu,Ter,496,,,,,,,,,,,,,,,,,
+GPC4,NM_001448.3(GPC4):c.324C>T (p.Phe108=),Phe,Phe,108,,,,,,,,,,,,,,,,,
+GPC4,NM_001448.3(GPC4):c.1581C>T (p.Ala527=),Ala,Ala,527,,,,,,,,,,,,,,,,,
+GPC4,NM_001448.3(GPC4):c.1116A>G (p.Glu372=),Glu,Glu,372,,,,,,,,,,,,,,,,,
+GPC4,NM_001448.3(GPC4):c.1469-4C>T,,,,,,,,,,,,,,,,,,,,
+GPC4,NM_001448.3(GPC4):c.320-8G>T,,,,,,,,,,,,,,,,,,,,
+GPC4,NM_001448.3(GPC4):c.1469-5A>G,,,,,,,,,,,,,,,,,,,,
+GPC4,NM_001448.3(GPC4):c.650C>T (p.Ala217Val),Ala,Val,217,,,,,,,,,,,,,,,,,
+GPC4,NM_001448.3(GPC4):c.772C>T (p.Arg258Trp),Arg,Trp,258,,,,,,,,,,,,,,,,,
+GPC4,NM_001448.3(GPC4):c.929C>T (p.Ser310Leu),Ser,Leu,310,,,,,,,,,,,,,,,,,
+GPC4,NM_001448.3(GPC4):c.701dup (p.Val235fs),Val,fs,235,,,,,,,,,,,,,,,,,
+GPC4,NM_001448.3(GPC4):c.316del (p.Asp106fs),Asp,fs,106,,,,,,,,,,,,,,,,,
+GPC4,NM_001448.3(GPC4):c.1518_1521dup (p.Pro508fs),Pro,fs,508,,,,,,,,,,,,,,,,,
+GPC4,NM_001448.3(GPC4):c.742del (p.Leu248fs),Leu,fs,248,,,,,,,,,,,,,,,,,
+GPC4,GRCh37/hg19 Xq26.2(chrX:132473601-132576139)x2,,,,,,,,,,,,,,,,,,,,
+GPC4,NM_001448.3(GPC4):c.1469-16dup,,,,,,,,,,,,,,,,,,,,
+RAC3,NM_005052.3(RAC3):c.184G>A (p.Glu62Lys),Glu,Lys,62,,,,,,,,,,,,,,,,,
+RAC3,NM_005052.3(RAC3):c.176C>G (p.Ala59Gly),Ala,Gly,59,,,,,,,,,,,,,,,,,
+RAC3,NM_005052.3(RAC3):c.86C>T (p.Pro29Leu),Pro,Leu,29,,,,,,,,,,,,,,,,,
+RAC3,NM_005052.3(RAC3):c.182A>T (p.Gln61Leu),Gln,Leu,61,,,,,,,,,,,,,,,,,
+RAC3,NM_005052.3(RAC3):c.187G>A (p.Asp63Asn),Asp,Asn,63,,,,,,,,,,,,,,,,,
+RAC3,NM_005052.3(RAC3):c.34G>C (p.Gly12Arg),Gly,Arg,12,,,,,,,,,,,,,,,,,
+RAC3,NM_005052.3(RAC3):c.191A>G (p.Tyr64Cys),Tyr,Cys,64,,,,,,,,,,,,,,,,,

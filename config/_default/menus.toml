@@ -1,0 +1,39 @@
+# main menu
+[[main]]
+name = "Williams Lab"
+url = "https://williamslab.vai.org/"
+weight = 1
+
+[[main]]
+name = "Warman Lab"
+url = "https://genetics.hms.harvard.edu/faculty-staff/matthew-l-warman"
+weight = 2
+
+[[main]]
+name = "Variants in Mouse Models"
+url = "blog/"
+weight = 3
+
+[[main]]
+weight = 4
+name = "VAI"
+hasChildren = true
+
+  [[main]]
+  parent = "Protocols/Reagents"
+  name = "CRISPR Guides/Templates"
+  url = ""
+  weight = 1
+
+  [[main]]
+  parent = "Protocols/Reagents"
+  name = "Reagents"
+  url = ""
+  weight = 7
+  
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 5
+
+

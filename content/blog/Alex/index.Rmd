@@ -1,0 +1,25 @@
+---
+title: "Mouse Phenotypes of VUS"
+author: "Frida Gomam"
+date: 2022-01-13T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# RS phenotypes in mice and the corresonding human VUS
+
+We employ i-GONAD to rapidly test WNT-associated VUS mutations from pediatric patients. We use i-GONAD to assess VUS in probands with clinically suspected Robinow syndrome (RS). RS is locus heterogenous, with causal mutations reported in the WNT pathway components, FZD2, DVL1, DVL3, and WNT5A. Clinically, RS has a wide phenotypic spectrum that includes congenital limb and craniofacial abnormalities. Most mutations associated with RS are not classic loss-of-function (amorphic) alleles, but instead hypermorphic, antimorphic, or neomorphic. 
+
+```{r cars,echo=FALSE,warning=FALSE,message=FALSE}
+library(dplyr)
+mouse= read.csv("index_files/mouse.csv")
+kableExtra::kable(mouse) %>%
+  kableExtra::kable_styling(bootstrap_options = "hover") %>%
+   kableExtra::row_spec(grep("yes", mouse$limb.defect), color = "red") %>% 
+  kableExtra::row_spec(grep("no", mouse$limb.defect), color = "black")
+  
+```
